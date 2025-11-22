@@ -1,0 +1,495 @@
+[12:21:20] Starting AI bankruptcy comparison…
+[12:21:20] Loaded 100 bankrupt row(s) and 100 solvent row(s).
+[12:21:20] Computing per-model metrics…
+[12:21:20] Computing cross-model correlations…
+[12:21:20] Analysis ready. Detailed results follow.
+[12:21:20] GPT-Base:
+[12:21:20]   means:
+[12:21:20]     bankrupt_mean: 57.15
+[12:21:20]     solvent_mean: 49.7
+[12:21:20]   AUC: 0.5925
+[12:21:20]   acc@50: 0.57
+[12:21:20]   TPR@50: 0.59
+[12:21:20]   TNR@50: 0.55
+[12:21:20]   bal_acc: 0.57
+[12:21:20]   bankrupt_right_wrong:
+[12:21:20]     correct_n: 59
+[12:21:20]     wrong_n: 41
+[12:21:20]     mean_correct: 73.8136
+[12:21:20]     mean_wrong: 33.1707
+[12:21:20]     terms_correct:
+[12:21:20]       positive: 7
+[12:21:20]       negative: 17
+[12:21:20]       leverage: 21
+[12:21:20]       liquidity: 3
+[12:21:20]       risk: 0
+[12:21:20]       altman: 0
+[12:21:20]       ohlson: 0
+[12:21:20]       coverage: 0
+[12:21:20]       cash: 23
+[12:21:20]       loss: 51
+[12:21:20]       profit: 10
+[12:21:20]       roa: 22
+[12:21:20]       tlta: 0
+[12:21:20]       current: 20
+[12:21:20]       ratio: 20
+[12:21:20]     terms_wrong:
+[12:21:20]       positive: 10
+[12:21:20]       negative: 1
+[12:21:20]       leverage: 9
+[12:21:20]       liquidity: 4
+[12:21:20]       risk: 0
+[12:21:20]       altman: 0
+[12:21:20]       ohlson: 0
+[12:21:20]       coverage: 0
+[12:21:20]       cash: 30
+[12:21:20]       loss: 13
+[12:21:20]       profit: 31
+[12:21:20]       roa: 10
+[12:21:20]       tlta: 0
+[12:21:20]       current: 8
+[12:21:20]       ratio: 11
+[12:21:20]   solvent_right_wrong:
+[12:21:20]     correct_n: 55
+[12:21:20]     wrong_n: 45
+[12:21:20]     mean_correct: 28.8364
+[12:21:20]     mean_wrong: 75.2
+[12:21:20]     terms_correct:
+[12:21:20]       positive: 12
+[12:21:20]       negative: 7
+[12:21:20]       leverage: 19
+[12:21:20]       liquidity: 4
+[12:21:20]       risk: 0
+[12:21:20]       altman: 0
+[12:21:20]       ohlson: 0
+[12:21:20]       coverage: 0
+[12:21:20]       cash: 22
+[12:21:20]       loss: 13
+[12:21:20]       profit: 11
+[12:21:20]       roa: 20
+[12:21:20]       tlta: 0
+[12:21:20]       current: 13
+[12:21:20]       ratio: 13
+[12:21:20]     terms_wrong:
+[12:21:20]       positive: 12
+[12:21:20]       negative: 17
+[12:21:20]       leverage: 31
+[12:21:20]       liquidity: 7
+[12:21:20]       risk: 0
+[12:21:20]       altman: 0
+[12:21:20]       ohlson: 0
+[12:21:20]       coverage: 0
+[12:21:20]       cash: 16
+[12:21:20]       loss: 18
+[12:21:20]       profit: 13
+[12:21:20]       roa: 28
+[12:21:20]       tlta: 0
+[12:21:20]       current: 24
+[12:21:20]       ratio: 24
+[12:21:20]   explanations:
+[12:21:20]     bankrupt:
+[12:21:20]       avg_words: 9.36
+[12:21:20]       term_counts:
+[12:21:20]         positive: 17
+[12:21:20]         negative: 18
+[12:21:20]         leverage: 30
+[12:21:20]         liquidity: 7
+[12:21:20]         risk: 0
+[12:21:20]         altman: 0
+[12:21:20]         ohlson: 0
+[12:21:20]         coverage: 0
+[12:21:20]         cash: 53
+[12:21:20]         loss: 64
+[12:21:20]         profit: 41
+[12:21:20]         roa: 32
+[12:21:20]         tlta: 0
+[12:21:20]         current: 28
+[12:21:20]         ratio: 31
+[12:21:20]     solvent:
+[12:21:20]       avg_words: 8.8
+[12:21:20]       term_counts:
+[12:21:20]         positive: 24
+[12:21:20]         negative: 24
+[12:21:20]         leverage: 50
+[12:21:20]         liquidity: 11
+[12:21:20]         risk: 0
+[12:21:20]         altman: 0
+[12:21:20]         ohlson: 0
+[12:21:20]         coverage: 0
+[12:21:20]         cash: 38
+[12:21:20]         loss: 31
+[12:21:20]         profit: 24
+[12:21:20]         roa: 48
+[12:21:20]         tlta: 0
+[12:21:20]         current: 37
+[12:21:20]         ratio: 37
+[12:21:20] GPT-Extended:
+[12:21:20]   means:
+[12:21:20]     bankrupt_mean: 57.03
+[12:21:20]     solvent_mean: 58.76
+[12:21:20]   AUC: 0.476
+[12:21:20]   acc@50: 0.475
+[12:21:20]   TPR@50: 0.57
+[12:21:20]   TNR@50: 0.38
+[12:21:20]   bal_acc: 0.475
+[12:21:20]   bankrupt_right_wrong:
+[12:21:20]     correct_n: 57
+[12:21:20]     wrong_n: 43
+[12:21:20]     mean_correct: 71.0877
+[12:21:20]     mean_wrong: 38.3953
+[12:21:20]     terms_correct:
+[12:21:20]       positive: 9
+[12:21:20]       negative: 15
+[12:21:20]       leverage: 26
+[12:21:20]       liquidity: 3
+[12:21:20]       risk: 0
+[12:21:20]       altman: 14
+[12:21:20]       ohlson: 7
+[12:21:20]       coverage: 0
+[12:21:20]       cash: 10
+[12:21:20]       loss: 13
+[12:21:20]       profit: 7
+[12:21:20]       roa: 38
+[12:21:20]       tlta: 0
+[12:21:20]       current: 16
+[12:21:20]       ratio: 16
+[12:21:20]     terms_wrong:
+[12:21:20]       positive: 6
+[12:21:20]       negative: 0
+[12:21:20]       leverage: 8
+[12:21:20]       liquidity: 5
+[12:21:20]       risk: 0
+[12:21:20]       altman: 11
+[12:21:20]       ohlson: 22
+[12:21:20]       coverage: 0
+[12:21:20]       cash: 4
+[12:21:20]       loss: 0
+[12:21:20]       profit: 3
+[12:21:20]       roa: 8
+[12:21:20]       tlta: 0
+[12:21:20]       current: 6
+[12:21:20]       ratio: 6
+[12:21:20]   solvent_right_wrong:
+[12:21:20]     correct_n: 38
+[12:21:20]     wrong_n: 62
+[12:21:20]     mean_correct: 33.2632
+[12:21:20]     mean_wrong: 74.3871
+[12:21:20]     terms_correct:
+[12:21:20]       positive: 9
+[12:21:20]       negative: 2
+[12:21:20]       leverage: 13
+[12:21:20]       liquidity: 5
+[12:21:20]       risk: 0
+[12:21:20]       altman: 21
+[12:21:20]       ohlson: 2
+[12:21:20]       coverage: 0
+[12:21:20]       cash: 4
+[12:21:20]       loss: 0
+[12:21:20]       profit: 9
+[12:21:20]       roa: 14
+[12:21:20]       tlta: 0
+[12:21:20]       current: 9
+[12:21:20]       ratio: 9
+[12:21:20]     terms_wrong:
+[12:21:20]       positive: 15
+[12:21:20]       negative: 14
+[12:21:20]       leverage: 39
+[12:21:20]       liquidity: 2
+[12:21:20]       risk: 0
+[12:21:20]       altman: 28
+[12:21:20]       ohlson: 7
+[12:21:20]       coverage: 0
+[12:21:20]       cash: 18
+[12:21:20]       loss: 12
+[12:21:20]       profit: 15
+[12:21:20]       roa: 28
+[12:21:20]       tlta: 0
+[12:21:20]       current: 23
+[12:21:20]       ratio: 23
+[12:21:20]   explanations:
+[12:21:20]     bankrupt:
+[12:21:20]       avg_words: 9.34
+[12:21:20]       term_counts:
+[12:21:20]         positive: 15
+[12:21:20]         negative: 15
+[12:21:20]         leverage: 34
+[12:21:20]         liquidity: 8
+[12:21:20]         risk: 0
+[12:21:20]         altman: 25
+[12:21:20]         ohlson: 29
+[12:21:20]         coverage: 0
+[12:21:20]         cash: 14
+[12:21:20]         loss: 13
+[12:21:20]         profit: 10
+[12:21:20]         roa: 46
+[12:21:20]         tlta: 0
+[12:21:20]         current: 22
+[12:21:20]         ratio: 22
+[12:21:20]     solvent:
+[12:21:20]       avg_words: 9.65
+[12:21:20]       term_counts:
+[12:21:20]         positive: 24
+[12:21:20]         negative: 16
+[12:21:20]         leverage: 52
+[12:21:20]         liquidity: 7
+[12:21:20]         risk: 0
+[12:21:20]         altman: 49
+[12:21:20]         ohlson: 9
+[12:21:20]         coverage: 0
+[12:21:20]         cash: 22
+[12:21:20]         loss: 12
+[12:21:20]         profit: 24
+[12:21:20]         roa: 42
+[12:21:20]         tlta: 0
+[12:21:20]         current: 32
+[12:21:20]         ratio: 32
+[12:21:20] GROK-Base:
+[12:21:20]   means:
+[12:21:20]     bankrupt_mean: 50.2
+[12:21:20]     solvent_mean: 44.08
+[12:21:20]   AUC: 0.5629
+[12:21:20]   acc@50: 0.565
+[12:21:20]   TPR@50: 0.56
+[12:21:20]   TNR@50: 0.57
+[12:21:20]   bal_acc: 0.565
+[12:21:20]   bankrupt_right_wrong:
+[12:21:20]     correct_n: 56
+[12:21:20]     wrong_n: 44
+[12:21:20]     mean_correct: 71.8929
+[12:21:20]     mean_wrong: 22.5909
+[12:21:20]     terms_correct:
+[12:21:20]       positive: 27
+[12:21:20]       negative: 55
+[12:21:20]       leverage: 16
+[12:21:20]       liquidity: 2
+[12:21:20]       risk: 0
+[12:21:20]       altman: 0
+[12:21:20]       ohlson: 0
+[12:21:20]       coverage: 0
+[12:21:20]       cash: 44
+[12:21:20]       loss: 40
+[12:21:20]       profit: 5
+[12:21:20]       roa: 15
+[12:21:20]       tlta: 0
+[12:21:20]       current: 11
+[12:21:20]       ratio: 12
+[12:21:20]     terms_wrong:
+[12:21:20]       positive: 49
+[12:21:20]       negative: 7
+[12:21:20]       leverage: 14
+[12:21:20]       liquidity: 0
+[12:21:20]       risk: 0
+[12:21:20]       altman: 0
+[12:21:20]       ohlson: 0
+[12:21:20]       coverage: 0
+[12:21:20]       cash: 33
+[12:21:20]       loss: 8
+[12:21:20]       profit: 18
+[12:21:20]       roa: 14
+[12:21:20]       tlta: 0
+[12:21:20]       current: 10
+[12:21:20]       ratio: 11
+[12:21:20]   solvent_right_wrong:
+[12:21:20]     correct_n: 57
+[12:21:20]     wrong_n: 43
+[12:21:20]     mean_correct: 22.8596
+[12:21:20]     mean_wrong: 72.2093
+[12:21:20]     terms_correct:
+[12:21:20]       positive: 71
+[12:21:20]       negative: 8
+[12:21:20]       leverage: 18
+[12:21:20]       liquidity: 2
+[12:21:20]       risk: 0
+[12:21:20]       altman: 0
+[12:21:20]       ohlson: 0
+[12:21:20]       coverage: 0
+[12:21:20]       cash: 39
+[12:21:20]       loss: 11
+[12:21:20]       profit: 14
+[12:21:20]       roa: 18
+[12:21:20]       tlta: 0
+[12:21:20]       current: 16
+[12:21:20]       ratio: 18
+[12:21:20]     terms_wrong:
+[12:21:20]       positive: 19
+[12:21:20]       negative: 45
+[12:21:20]       leverage: 12
+[12:21:20]       liquidity: 4
+[12:21:20]       risk: 0
+[12:21:20]       altman: 0
+[12:21:20]       ohlson: 0
+[12:21:20]       coverage: 0
+[12:21:20]       cash: 35
+[12:21:20]       loss: 32
+[12:21:20]       profit: 6
+[12:21:20]       roa: 12
+[12:21:20]       tlta: 0
+[12:21:20]       current: 11
+[12:21:20]       ratio: 12
+[12:21:20]   explanations:
+[12:21:20]     bankrupt:
+[12:21:20]       avg_words: 9.83
+[12:21:20]       term_counts:
+[12:21:20]         positive: 76
+[12:21:20]         negative: 62
+[12:21:20]         leverage: 30
+[12:21:20]         liquidity: 2
+[12:21:20]         risk: 0
+[12:21:20]         altman: 0
+[12:21:20]         ohlson: 0
+[12:21:20]         coverage: 0
+[12:21:20]         cash: 77
+[12:21:20]         loss: 48
+[12:21:20]         profit: 23
+[12:21:20]         roa: 29
+[12:21:20]         tlta: 0
+[12:21:20]         current: 21
+[12:21:20]         ratio: 23
+[12:21:20]     solvent:
+[12:21:20]       avg_words: 10.19
+[12:21:20]       term_counts:
+[12:21:20]         positive: 90
+[12:21:20]         negative: 53
+[12:21:20]         leverage: 30
+[12:21:20]         liquidity: 6
+[12:21:20]         risk: 0
+[12:21:20]         altman: 0
+[12:21:20]         ohlson: 0
+[12:21:20]         coverage: 0
+[12:21:20]         cash: 74
+[12:21:20]         loss: 43
+[12:21:20]         profit: 20
+[12:21:20]         roa: 30
+[12:21:20]         tlta: 0
+[12:21:20]         current: 27
+[12:21:20]         ratio: 30
+[12:21:20] GROK-Extended:
+[12:21:20]   means:
+[12:21:20]     bankrupt_mean: 47.01
+[12:21:20]     solvent_mean: 46.26
+[12:21:20]   AUC: 0.5105
+[12:21:20]   acc@50: 0.54
+[12:21:20]   TPR@50: 0.46
+[12:21:20]   TNR@50: 0.62
+[12:21:20]   bal_acc: 0.54
+[12:21:20]   bankrupt_right_wrong:
+[12:21:20]     correct_n: 46
+[12:21:20]     wrong_n: 54
+[12:21:20]     mean_correct: 68.8043
+[12:21:20]     mean_wrong: 28.4444
+[12:21:20]     terms_correct:
+[12:21:20]       positive: 11
+[12:21:20]       negative: 38
+[12:21:20]       leverage: 21
+[12:21:20]       liquidity: 13
+[12:21:20]       risk: 7
+[12:21:20]       altman: 7
+[12:21:20]       ohlson: 11
+[12:21:20]       coverage: 5
+[12:21:20]       cash: 14
+[12:21:20]       loss: 20
+[12:21:20]       profit: 8
+[12:21:20]       roa: 30
+[12:21:20]       tlta: 0
+[12:21:20]       current: 11
+[12:21:20]       ratio: 12
+[12:21:20]     terms_wrong:
+[12:21:20]       positive: 33
+[12:21:20]       negative: 14
+[12:21:20]       leverage: 23
+[12:21:20]       liquidity: 13
+[12:21:20]       risk: 19
+[12:21:20]       altman: 3
+[12:21:20]       ohlson: 3
+[12:21:20]       coverage: 7
+[12:21:20]       cash: 10
+[12:21:20]       loss: 14
+[12:21:20]       profit: 13
+[12:21:20]       roa: 30
+[12:21:20]       tlta: 0
+[12:21:20]       current: 10
+[12:21:20]       ratio: 11
+[12:21:20]   solvent_right_wrong:
+[12:21:20]     correct_n: 62
+[12:21:20]     wrong_n: 38
+[12:21:20]     mean_correct: 29.2258
+[12:21:20]     mean_wrong: 74.0526
+[12:21:20]     terms_correct:
+[12:21:20]       positive: 39
+[12:21:20]       negative: 16
+[12:21:20]       leverage: 27
+[12:21:20]       liquidity: 18
+[12:21:20]       risk: 22
+[12:21:20]       altman: 7
+[12:21:20]       ohlson: 11
+[12:21:20]       coverage: 6
+[12:21:20]       cash: 13
+[12:21:20]       loss: 13
+[12:21:20]       profit: 20
+[12:21:20]       roa: 37
+[12:21:20]       tlta: 0
+[12:21:20]       current: 16
+[12:21:20]       ratio: 18
+[12:21:20]     terms_wrong:
+[12:21:20]       positive: 9
+[12:21:20]       negative: 26
+[12:21:20]       leverage: 22
+[12:21:20]       liquidity: 6
+[12:21:20]       risk: 10
+[12:21:20]       altman: 4
+[12:21:20]       ohlson: 6
+[12:21:20]       coverage: 4
+[12:21:20]       cash: 16
+[12:21:20]       loss: 15
+[12:21:20]       profit: 7
+[12:21:20]       roa: 21
+[12:21:20]       tlta: 0
+[12:21:20]       current: 11
+[12:21:20]       ratio: 11
+[12:21:20]   explanations:
+[12:21:20]     bankrupt:
+[12:21:20]       avg_words: 9.95
+[12:21:20]       term_counts:
+[12:21:20]         positive: 44
+[12:21:20]         negative: 52
+[12:21:20]         leverage: 44
+[12:21:20]         liquidity: 26
+[12:21:20]         risk: 26
+[12:21:20]         altman: 10
+[12:21:20]         ohlson: 14
+[12:21:20]         coverage: 12
+[12:21:20]         cash: 24
+[12:21:20]         loss: 34
+[12:21:20]         profit: 21
+[12:21:20]         roa: 60
+[12:21:20]         tlta: 0
+[12:21:20]         current: 21
+[12:21:20]         ratio: 23
+[12:21:20]     solvent:
+[12:21:20]       avg_words: 10.49
+[12:21:20]       term_counts:
+[12:21:20]         positive: 48
+[12:21:20]         negative: 42
+[12:21:20]         leverage: 49
+[12:21:20]         liquidity: 24
+[12:21:20]         risk: 32
+[12:21:20]         altman: 11
+[12:21:20]         ohlson: 17
+[12:21:20]         coverage: 10
+[12:21:20]         cash: 29
+[12:21:20]         loss: 28
+[12:21:20]         profit: 27
+[12:21:20]         roa: 58
+[12:21:20]         tlta: 0
+[12:21:20]         current: 27
+[12:21:20]         ratio: 29
+[12:21:20] correlations:
+[12:21:20]   Base_bankrupt_GPT_vs_GROK: 0.7043
+[12:21:20]   Base_solvent_GPT_vs_GROK: 0.7418
+[12:21:20]   Extended_bankrupt_GPT_vs_GROK: 0.59
+[12:21:20]   Extended_solvent_GPT_vs_GROK: 0.7979
+[12:21:20]   GPT_bankrupt_Base_vs_Extended: 0.5021
+[12:21:20]   GPT_solvent_Base_vs_Extended: 0.7392
+[12:21:20]   GROK_bankrupt_Base_vs_Extended: 0.7058
+[12:21:20]   GROK_solvent_Base_vs_Extended: 0.7346
+[12:21:20] All comparisons complete.

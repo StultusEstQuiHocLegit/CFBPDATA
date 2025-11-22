@@ -1,0 +1,42 @@
+[12:17:29] Loading 2024 subset CSV files…
+[12:17:29] Loaded 100 bankrupt row(s) and 100 solvent row(s).
+[12:17:29] Computing means, medians and standard deviations for selected features…
+[12:17:29] Preparing feature matrix for logistic regression…
+[12:17:29] Training logistic regression model (gradient descent)…
+[12:17:29] Training complete.
+[12:17:29] Top logistic coefficients for 2024 subset (by magnitude):
+[12:17:29]   PaymentsOfDividends: -0.779955
+[12:17:29]   LongTermDebtNoncurrent: 0.622469
+[12:17:29]   AIExpectedLikelihoodOfBankruptcyAnnualReportStrongerModelGPT: -0.601821
+[12:17:29]   NetCashProvidedByUsedInFinancingActivities: 0.570429
+[12:17:29]   EarningsPerShareDiluted: 0.535236
+[12:17:29]   IntangibleAssetsNetExcludingGoodwill: 0.525937
+[12:17:29]   DepreciationAndAmortization: -0.518526
+[12:17:29]   AIExpectedLikelihoodOfBankruptcyBaseStrongerModelGPT: 0.494189
+[12:17:29]   NoncurrentAssets: -0.492444
+[12:17:29]   CommonStockValue: 0.466947
+[12:17:29]   SolvencyIndicatingWordsCount: -0.456280
+[12:17:29]   TotalCharactersCount: 0.453036
+[12:17:29]   Goodwill: 0.417631
+[12:17:29]   SellingGeneralAndAdministrativeExpense: 0.340850
+[12:17:29]   AIExpectedLikelihoodOfBankruptcyAnnualReport: 0.330934
+[12:17:29] Rendering coefficient bar chart…
+[12:17:29] Coefficient chart saved to /mnt/data/relevant/html/lasse/CFDATA/coef_bar_subset.png
+[12:17:29] Computing relative mean differences…
+[12:17:29]   CFO_Liabilities: bankrupt_mean=-0.3052, solvent_mean=-0.3719, rel_diff=0.1792
+[12:17:29]   LongTermDebtNoncurrent: bankrupt_mean=7228139432.2778, solvent_mean=1451382468.2727, rel_diff=3.9802
+[12:17:29]   CFO_DebtService: bankrupt_mean=30.4032, solvent_mean=13.9597, rel_diff=1.1779
+[12:17:29]   NoncurrentAssets: bankrupt_mean=29755444.2000, solvent_mean=2020897820.2000, rel_diff=-0.9853
+[12:17:29]   Goodwill: bankrupt_mean=6356615260.8696, solvent_mean=2195862496.3148, rel_diff=1.8948
+[12:17:29]   CommonStockValue: bankrupt_mean=209277024.7407, solvent_mean=148853307.8835, rel_diff=0.4059
+[12:17:29]   NetIncomeLoss: bankrupt_mean=287711085.7609, solvent_mean=1128426551.3918, rel_diff=-0.7450
+[12:17:29]   PaymentsOfDividends: bankrupt_mean=128830000.0000, solvent_mean=307560611.1111, rel_diff=-0.5811
+[12:17:29]   ShortTermBorrowings: bankrupt_mean=332400811.1111, solvent_mean=7320983632.6154, rel_diff=-0.9546
+[12:17:29]   RepaymentsOfDebt: bankrupt_mean=514474071.2941, solvent_mean=1364281333.3333, rel_diff=-0.6229
+[12:17:29]   SolvencyIndicatingWordsCount: bankrupt_mean=29.3800, solvent_mean=29.8900, rel_diff=-0.0171
+[12:17:29]   BankruptcyIndicatingWordsCount: bankrupt_mean=26.1000, solvent_mean=19.9300, rel_diff=0.3096
+[12:17:30]   AIExpectedLikelihoodOfBankruptcyAnnualReport: bankrupt_mean=44.1856, solvent_mean=19.5816, rel_diff=1.2565
+[12:17:30]   AIExpectedLikelihoodOfBankruptcyBase: bankrupt_mean=34.4444, solvent_mean=29.8105, rel_diff=0.1554
+[12:17:30] Rendering relative mean difference bar chart…
+[12:17:30] Relative difference chart saved to /mnt/data/relevant/html/lasse/CFDATA/diff_bar_subset.png
+[12:17:30] Analysis complete.

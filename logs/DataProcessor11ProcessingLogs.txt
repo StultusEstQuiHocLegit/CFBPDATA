@@ -1,0 +1,32 @@
+[12:16:18] Loading CSV files…
+[12:16:18] Loaded 7626 bankrupt row(s) and 6399 solvent row(s).
+[12:16:19] Preparing ratio feature matrix…
+[12:16:19] Training logistic regression model on ratio features…
+[12:16:49] Logistic regression training complete.
+[12:16:49] Top logistic coefficients from gradient descent (by magnitude):
+[12:16:49]   Intercept: 0.185601
+[12:16:49]   PiotroskiFScore: 0.150931
+[12:16:49]   FulmerHScore: 0.065535
+[12:16:49]   OperatingMargin: -0.059262
+[12:16:49]   OhlsonOScore: 0.056233
+[12:16:49]   DaysAR: 0.043595
+[12:16:49]   CashConversionCycle: 0.030703
+[12:16:49]   Debt_Assets: 0.029683
+[12:16:49]   CFO_DebtService: 0.026795
+[12:16:49]   QuickRatio: -0.021264
+[12:16:49] Generating logistic coefficient bar chart…
+[12:16:49] Coefficient chart saved to /mnt/data/relevant/html/lasse/CFDATA/ratio_coef_bar.png
+[12:16:49] Computing relative mean differences for selected ratios…
+[12:16:49]   Debt_Assets: bankrupt_mean=15264.5735, solvent_mean=32.8784, rel_diff=463.2741
+[12:16:49]   CurrentRatio: bankrupt_mean=4.7579, solvent_mean=4.2922, rel_diff=0.1085
+[12:16:49]   QuickRatio: bankrupt_mean=-1.1659, solvent_mean=3.8400, rel_diff=-1.3036
+[12:16:49]   ROA: bankrupt_mean=-9906.7072, solvent_mean=-28.7087, rel_diff=-344.0763
+[12:16:49]   OperatingMargin: bankrupt_mean=-10.9446, solvent_mean=-1.9449, rel_diff=-4.6274
+[12:16:49]   DaysAR: bankrupt_mean=219.4163, solvent_mean=95.8996, rel_diff=1.2880
+[12:16:49]   DaysINV: bankrupt_mean=18540.0992, solvent_mean=634.0445, rel_diff=28.2410
+[12:16:49]   DaysAP: bankrupt_mean=838.1917, solvent_mean=1177.4509, rel_diff=-0.2881
+[12:16:49]   CashConversionCycle: bankrupt_mean=125.9401, solvent_mean=-223.8664, rel_diff=1.5626
+[12:16:49]   Accruals: bankrupt_mean=-0.1737, solvent_mean=-5.4431, rel_diff=0.9681
+[12:16:49] Generating relative mean difference bar chart…
+[12:16:49] Relative difference chart saved to /mnt/data/relevant/html/lasse/CFDATA/ratio_mean_diff_bar.png
+[12:16:49] Analysis complete.

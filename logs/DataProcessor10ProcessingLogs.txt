@@ -1,0 +1,3365 @@
+[11:17:17] Starting annual report AI processing…
+[11:17:17] Reading report CSV files …
+[11:17:17] Fetching 200 annual report(s)…
+[11:17:17]   Downloading report for CIK 0001735707 (2024)…
+[11:17:17]   Truncated report for CIK 0001735707 to 100015 characters.
+[11:17:17]   Downloading report for CIK 0001058307 (2024)…
+[11:17:17]   Truncated report for CIK 0001058307 to 100016 characters.
+[11:17:17]   Downloading report for CIK 0001724521 (2024)…
+[11:17:17]   Truncated report for CIK 0001724521 to 99909 characters.
+[11:17:17]   Downloading report for CIK 0001944831 (2024)…
+[11:17:18]   Truncated report for CIK 0001944831 to 100016 characters.
+[11:17:18]   Downloading report for CIK 0001108426 (2024)…
+[11:17:18]   Truncated report for CIK 0001108426 to 100016 characters.
+[11:17:18]   Downloading report for CIK 0001834105 (2024)…
+[11:17:18]   Truncated report for CIK 0001834105 to 99885 characters.
+[11:17:18]   Downloading report for CIK 0001571996 (2024)…
+[11:17:18]   Truncated report for CIK 0001571996 to 99943 characters.
+[11:17:18]   Downloading report for CIK 0001552797 (2024)…
+[11:17:18]   Truncated report for CIK 0001552797 to 100016 characters.
+[11:17:18]   Downloading report for CIK 0001425287 (2024)…
+[11:17:18]   Truncated report for CIK 0001425287 to 99987 characters.
+[11:17:18]   Downloading report for CIK 0001099219 (2024)…
+[11:17:19]   Truncated report for CIK 0001099219 to 100016 characters.
+[11:17:19]   Downloading report for CIK 0001811999 (2024)…
+[11:17:19]   Truncated report for CIK 0001811999 to 100015 characters.
+[11:17:19]   Downloading report for CIK 0002012839 (2024)…
+[11:17:19]   Truncated report for CIK 0002012839 to 100016 characters.
+[11:17:19]   Downloading report for CIK 0002024203 (2024)…
+[11:17:19]   Truncated report for CIK 0002024203 to 99880 characters.
+[11:17:19]   Downloading report for CIK 0001096343 (2024)…
+[11:17:19]   Truncated report for CIK 0001096343 to 100016 characters.
+[11:17:19]   Downloading report for CIK 0001372299 (2024)…
+[11:17:19]   Truncated report for CIK 0001372299 to 100011 characters.
+[11:17:20]   Downloading report for CIK 0001091667 (2024)…
+[11:17:20]   Truncated report for CIK 0001091667 to 100015 characters.
+[11:17:20]   Downloading report for CIK 0001868573 (2024)…
+[11:17:20]   Truncated report for CIK 0001868573 to 99892 characters.
+[11:17:20]   Downloading report for CIK 0001556727 (2024)…
+[11:17:20]   Truncated report for CIK 0001556727 to 100013 characters.
+[11:17:20]   Downloading report for CIK 0001442999 (2024)…
+[11:17:20]   Truncated report for CIK 0001442999 to 99985 characters.
+[11:17:20]   Downloading report for CIK 0002020385 (2024)…
+[11:17:20]   Truncated report for CIK 0002020385 to 99962 characters.
+[11:17:20]   Downloading report for CIK 0001576018 (2024)…
+[11:17:21]   Truncated report for CIK 0001576018 to 100016 characters.
+[11:17:21]   Downloading report for CIK 0000081018 (2024)…
+[11:17:21]   Truncated report for CIK 0000081018 to 100016 characters.
+[11:17:21]   Downloading report for CIK 0001175535 (2024)…
+[11:17:21]   Truncated report for CIK 0001175535 to 100016 characters.
+[11:17:21]   Downloading report for CIK 0001367644 (2024)…
+[11:17:21]   Truncated report for CIK 0001367644 to 100016 characters.
+[11:17:21]   Downloading report for CIK 0001847355 (2024)…
+[11:17:21]   Truncated report for CIK 0001847355 to 99920 characters.
+[11:17:21]   Downloading report for CIK 0001771514 (2024)…
+[11:17:22]   Truncated report for CIK 0001771514 to 100016 characters.
+[11:17:22]   Downloading report for CIK 0001477845 (2024)…
+[11:17:22]   Truncated report for CIK 0001477845 to 99970 characters.
+[11:17:22]   Downloading report for CIK 0000100726 (2024)…
+[11:17:22]   Truncated report for CIK 0000100726 to 100016 characters.
+[11:17:22]   Downloading report for CIK 0001492422 (2024)…
+[11:17:22]   Truncated report for CIK 0001492422 to 100016 characters.
+[11:17:22]   Downloading report for CIK 0001534701 (2024)…
+[11:17:22]   Truncated report for CIK 0001534701 to 99846 characters.
+[11:17:22]   Downloading report for CIK 0001736946 (2024)…
+[11:17:22]   Truncated report for CIK 0001736946 to 99972 characters.
+[11:17:22]   Downloading report for CIK 0001130310 (2024)…
+[11:17:23]   Truncated report for CIK 0001130310 to 100016 characters.
+[11:17:23]   Downloading report for CIK 0001093691 (2024)…
+[11:17:23]   Truncated report for CIK 0001093691 to 99848 characters.
+[11:17:23]   Downloading report for CIK 0001609809 (2024)…
+[11:17:23]   Truncated report for CIK 0001609809 to 99910 characters.
+[11:17:23]   Downloading report for CIK 0001972529 (2024)…
+[11:17:23]   Truncated report for CIK 0001972529 to 99987 characters.
+[11:17:23]   Downloading report for CIK 0000092122 (2024)…
+[11:17:23]   Truncated report for CIK 0000092122 to 100016 characters.
+[11:17:23]   Downloading report for CIK 0000783324 (2024)…
+[11:17:23]   Truncated report for CIK 0000783324 to 100016 characters.
+[11:17:23]   Downloading report for CIK 0000065984 (2024)…
+[11:17:24]   Truncated report for CIK 0000065984 to 100016 characters.
+[11:17:24]   Downloading report for CIK 0001347242 (2024)…
+[11:17:24]   Truncated report for CIK 0001347242 to 99973 characters.
+[11:17:24]   Downloading report for CIK 0001355848 (2024)…
+[11:17:24]   Truncated report for CIK 0001355848 to 99923 characters.
+[11:17:24]   Downloading report for CIK 0000078890 (2024)…
+[11:17:24]   Truncated report for CIK 0000078890 to 100016 characters.
+[11:17:24]   Downloading report for CIK 0000813672 (2024)…
+[11:17:24]   Truncated report for CIK 0000813672 to 99818 characters.
+[11:17:24]   Downloading report for CIK 0001842952 (2024)…
+[11:17:25]   Truncated report for CIK 0001842952 to 99818 characters.
+[11:17:25]   Downloading report for CIK 0001816017 (2024)…
+[11:17:25]   Truncated report for CIK 0001816017 to 99994 characters.
+[11:17:25]   Downloading report for CIK 0001383650 (2024)…
+[11:17:25]   Truncated report for CIK 0001383650 to 100016 characters.
+[11:17:25]   Downloading report for CIK 0000016918 (2024)…
+[11:17:25]   Truncated report for CIK 0000016918 to 100016 characters.
+[11:17:25]   Downloading report for CIK 0000035527 (2024)…
+[11:17:25]   Truncated report for CIK 0000035527 to 100016 characters.
+[11:17:25]   Downloading report for CIK 0001698990 (2024)…
+[11:17:25]   Truncated report for CIK 0001698990 to 100016 characters.
+[11:17:25]   Downloading report for CIK 0000828944 (2024)…
+[11:17:26]   Truncated report for CIK 0000828944 to 100011 characters.
+[11:17:26]   Downloading report for CIK 0000813828 (2024)…
+[11:17:26]   Truncated report for CIK 0000813828 to 100016 characters.
+[11:17:26]   Downloading report for CIK 0000784977 (2024)…
+[11:17:26]   Truncated report for CIK 0000784977 to 100016 characters.
+[11:17:26]   Downloading report for CIK 0001730773 (2024)…
+[11:17:26]   Truncated report for CIK 0001730773 to 100009 characters.
+[11:17:26]   Downloading report for CIK 0001823652 (2024)…
+[11:17:26]   Truncated report for CIK 0001823652 to 99925 characters.
+[11:17:26]   Downloading report for CIK 0001808834 (2024)…
+[11:17:26]   Truncated report for CIK 0001808834 to 100016 characters.
+[11:17:26]   Downloading report for CIK 0001597033 (2024)…
+[11:17:27]   Truncated report for CIK 0001597033 to 100016 characters.
+[11:17:27]   Downloading report for CIK 0001898766 (2024)…
+[11:17:27]   Truncated report for CIK 0001898766 to 99906 characters.
+[11:17:27]   Downloading report for CIK 0001356090 (2024)…
+[11:17:27]   Truncated report for CIK 0001356090 to 100007 characters.
+[11:17:27]   Downloading report for CIK 0001879848 (2024)…
+[11:17:27]   Truncated report for CIK 0001879848 to 99996 characters.
+[11:17:27]   Downloading report for CIK 0001340476 (2024)…
+[11:17:27]   Truncated report for CIK 0001340476 to 99973 characters.
+[11:17:27]   Downloading report for CIK 0001880343 (2024)…
+[11:17:27]   Truncated report for CIK 0001880343 to 99928 characters.
+[11:17:27]   Downloading report for CIK 0001675033 (2024)…
+[11:17:28]   Truncated report for CIK 0001675033 to 99995 characters.
+[11:17:28]   Downloading report for CIK 0001496099 (2024)…
+[11:17:28]   Truncated report for CIK 0001496099 to 100016 characters.
+[11:17:28]   Downloading report for CIK 0001705873 (2024)…
+[11:17:28]   Truncated report for CIK 0001705873 to 100016 characters.
+[11:17:28]   Downloading report for CIK 0000025445 (2024)…
+[11:17:28]   Truncated report for CIK 0000025445 to 100016 characters.
+[11:17:28]   Downloading report for CIK 0001402829 (2024)…
+[11:17:28]   Truncated report for CIK 0001402829 to 99941 characters.
+[11:17:28]   Downloading report for CIK 0000716314 (2024)…
+[11:17:28]   Truncated report for CIK 0000716314 to 99972 characters.
+[11:17:28]   Downloading report for CIK 0001498067 (2024)…
+[11:17:29]   Truncated report for CIK 0001498067 to 99897 characters.
+[11:17:29]   Downloading report for CIK 0001828805 (2024)…
+[11:17:29]   Truncated report for CIK 0001828805 to 99909 characters.
+[11:17:29]   Downloading report for CIK 0001100682 (2024)…
+[11:17:29]   Truncated report for CIK 0001100682 to 100016 characters.
+[11:17:29]   Downloading report for CIK 0001455863 (2024)…
+[11:17:29]   Truncated report for CIK 0001455863 to 100016 characters.
+[11:17:29]   Downloading report for CIK 0001067983 (2024)…
+[11:17:29]   Truncated report for CIK 0001067983 to 100016 characters.
+[11:17:29]   Downloading report for CIK 0001522727 (2024)…
+[11:17:30]   Truncated report for CIK 0001522727 to 99991 characters.
+[11:17:30]   Downloading report for CIK 0000885725 (2024)…
+[11:17:30]   Truncated report for CIK 0000885725 to 100012 characters.
+[11:17:30]   Downloading report for CIK 0001613103 (2024)…
+[11:17:30]   Truncated report for CIK 0001613103 to 99871 characters.
+[11:17:30]   Downloading report for CIK 0000101199 (2024)…
+[11:17:30]   Truncated report for CIK 0000101199 to 99987 characters.
+[11:17:30]   Downloading report for CIK 0001783180 (2024)…
+[11:17:30]   Truncated report for CIK 0001783180 to 100016 characters.
+[11:17:30]   Downloading report for CIK 0001795091 (2024)…
+[11:17:30]   Truncated report for CIK 0001795091 to 99926 characters.
+[11:17:30]   Downloading report for CIK 0001878897 (2024)…
+[11:17:30]   Truncated report for CIK 0001878897 to 99910 characters.
+[11:17:30]   Downloading report for CIK 0001133421 (2024)…
+[11:17:31]   Truncated report for CIK 0001133421 to 100016 characters.
+[11:17:31]   Downloading report for CIK 0001130598 (2024)…
+[11:17:31]   Truncated report for CIK 0001130598 to 100016 characters.
+[11:17:31]   Downloading report for CIK 0001849635 (2024)…
+[11:17:31]   Truncated report for CIK 0001849635 to 100016 characters.
+[11:17:31]   Downloading report for CIK 0000108985 (2024)…
+[11:17:31]   Truncated report for CIK 0000108985 to 99995 characters.
+[11:17:31]   Downloading report for CIK 0000352541 (2024)…
+[11:17:31]   Truncated report for CIK 0000352541 to 100016 characters.
+[11:17:31]   Downloading report for CIK 0001423774 (2024)…
+[11:17:31]   Truncated report for CIK 0001423774 to 99849 characters.
+[11:17:31]   Downloading report for CIK 0001819974 (2024)…
+[11:17:32]   Truncated report for CIK 0001819974 to 99827 characters.
+[11:17:32]   Downloading report for CIK 0001725911 (2024)…
+[11:17:32]   Truncated report for CIK 0001725911 to 99868 characters.
+[11:17:32]   Downloading report for CIK 0001881551 (2024)…
+[11:17:32]   Downloading report for CIK 0001580670 (2024)…
+[11:17:32]   Truncated report for CIK 0001580670 to 99868 characters.
+[11:17:32]   Downloading report for CIK 0000049826 (2024)…
+[11:17:32]   Truncated report for CIK 0000049826 to 100006 characters.
+[11:17:32]   Downloading report for CIK 0001719406 (2024)…
+[11:17:32]   Truncated report for CIK 0001719406 to 99927 characters.
+[11:17:32]   Downloading report for CIK 0000795403 (2024)…
+[11:17:33]   Truncated report for CIK 0000795403 to 99961 characters.
+[11:17:33]   Downloading report for CIK 0001534708 (2024)…
+[11:17:33]   Downloading report for CIK 0001800315 (2024)…
+[11:17:33]   Truncated report for CIK 0001800315 to 100016 characters.
+[11:17:33]   Downloading report for CIK 0001635327 (2024)…
+[11:17:33]   Truncated report for CIK 0001635327 to 100016 characters.
+[11:17:33]   Downloading report for CIK 0001001250 (2024)…
+[11:17:33]   Truncated report for CIK 0001001250 to 99891 characters.
+[11:17:33]   Downloading report for CIK 0001567892 (2024)…
+[11:17:33]   Truncated report for CIK 0001567892 to 99959 characters.
+[11:17:33]   Downloading report for CIK 0001852019 (2024)…
+[11:17:34]   Truncated report for CIK 0001852019 to 100016 characters.
+[11:17:34]   Downloading report for CIK 0001350102 (2024)…
+[11:17:34]   Truncated report for CIK 0001350102 to 100015 characters.
+[11:17:34]   Downloading report for CIK 0001120970 (2024)…
+[11:17:34]   Truncated report for CIK 0001120970 to 100016 characters.
+[11:17:34]   Downloading report for CIK 0001623526 (2024)…
+[11:17:34]   Truncated report for CIK 0001623526 to 100016 characters.
+[11:17:34]   Downloading report for CIK 1455684 (2024)…
+[11:17:34]   Truncated report for CIK 1455684 to 99955 characters.
+[11:17:34]   Downloading report for CIK 1136893 (2024)…
+[11:17:34]   Truncated report for CIK 1136893 to 100016 characters.
+[11:17:34]   Downloading report for CIK 320017 (2024)…
+[11:17:35]   Truncated report for CIK 320017 to 100016 characters.
+[11:17:35]   Downloading report for CIK 1652044 (2024)…
+[11:17:35]   Truncated report for CIK 1652044 to 100016 characters.
+[11:17:35]   Downloading report for CIK 1840502 (2024)…
+[11:17:35]   Truncated report for CIK 1840502 to 100016 characters.
+[11:17:35]   Downloading report for CIK 1551182 (2024)…
+[11:17:35]   Truncated report for CIK 1551182 to 100016 characters.
+[11:17:35]   Downloading report for CIK 94049 (2024)…
+[11:17:35]   Truncated report for CIK 94049 to 100015 characters.
+[11:17:35]   Downloading report for CIK 1376231 (2024)…
+[11:17:35]   Truncated report for CIK 1376231 to 99989 characters.
+[11:17:35]   Downloading report for CIK 1070680 (2024)…
+[11:17:36]   Truncated report for CIK 1070680 to 99981 characters.
+[11:17:36]   Downloading report for CIK 1889112 (2024)…
+[11:17:36]   Truncated report for CIK 1889112 to 100016 characters.
+[11:17:36]   Downloading report for CIK 1627475 (2024)…
+[11:17:36]   Truncated report for CIK 1627475 to 100016 characters.
+[11:17:36]   Downloading report for CIK 731012 (2024)…
+[11:17:36]   Truncated report for CIK 731012 to 100016 characters.
+[11:17:36]   Downloading report for CIK 916789 (2024)…
+[11:17:36]   Truncated report for CIK 916789 to 99990 characters.
+[11:17:36]   Downloading report for CIK 1746473 (2024)…
+[11:17:36]   Truncated report for CIK 1746473 to 100016 characters.
+[11:17:36]   Downloading report for CIK 1806201 (2024)…
+[11:17:37]   Truncated report for CIK 1806201 to 100015 characters.
+[11:17:37]   Downloading report for CIK 1300514 (2024)…
+[11:17:37]   Truncated report for CIK 1300514 to 99886 characters.
+[11:17:37]   Downloading report for CIK 875729 (2024)…
+[11:17:37]   Truncated report for CIK 875729 to 99908 characters.
+[11:17:37]   Downloading report for CIK 1424768 (2024)…
+[11:17:37]   Truncated report for CIK 1424768 to 100013 characters.
+[11:17:37]   Downloading report for CIK 1328581 (2024)…
+[11:17:37]   Truncated report for CIK 1328581 to 99897 characters.
+[11:17:37]   Downloading report for CIK 1053352 (2024)…
+[11:17:38]   Truncated report for CIK 1053352 to 100015 characters.
+[11:17:38]   Downloading report for CIK 1845123 (2024)…
+[11:17:38]   Truncated report for CIK 1845123 to 100007 characters.
+[11:17:38]   Downloading report for CIK 1423689 (2024)…
+[11:17:38]   Truncated report for CIK 1423689 to 100016 characters.
+[11:17:38]   Downloading report for CIK 1138476 (2024)…
+[11:17:38]   Truncated report for CIK 1138476 to 99930 characters.
+[11:17:38]   Downloading report for CIK 1874315 (2024)…
+[11:17:38]   Truncated report for CIK 1874315 to 99841 characters.
+[11:17:38]   Downloading report for CIK 1041803 (2024)…
+[11:17:38]   Truncated report for CIK 1041803 to 100016 characters.
+[11:17:38]   Downloading report for CIK 1858007 (2024)…
+[11:17:39]   Truncated report for CIK 1858007 to 99977 characters.
+[11:17:39]   Downloading report for CIK 1326200 (2024)…
+[11:17:39]   Truncated report for CIK 1326200 to 100016 characters.
+[11:17:39]   Downloading report for CIK 1639068 (2024)…
+[11:17:39]   Truncated report for CIK 1639068 to 99930 characters.
+[11:17:39]   Downloading report for CIK 1703625 (2024)…
+[11:17:39]   Truncated report for CIK 1703625 to 99894 characters.
+[11:17:39]   Downloading report for CIK 1444380 (2024)…
+[11:17:39]   Truncated report for CIK 1444380 to 100016 characters.
+[11:17:39]   Downloading report for CIK 1812360 (2024)…
+[11:17:39]   Truncated report for CIK 1812360 to 99920 characters.
+[11:17:39]   Downloading report for CIK 1125345 (2024)…
+[11:17:40]   Truncated report for CIK 1125345 to 99827 characters.
+[11:17:40]   Downloading report for CIK 1822479 (2024)…
+[11:17:40]   Truncated report for CIK 1822479 to 99908 characters.
+[11:17:40]   Downloading report for CIK 1081938 (2024)…
+[11:17:40]   Truncated report for CIK 1081938 to 100015 characters.
+[11:17:40]   Downloading report for CIK 1015328 (2024)…
+[11:17:40]   Truncated report for CIK 1015328 to 100015 characters.
+[11:17:40]   Downloading report for CIK 1583648 (2024)…
+[11:17:40]   Truncated report for CIK 1583648 to 100016 characters.
+[11:17:40]   Downloading report for CIK 1037540 (2024)…
+[11:17:41]   Truncated report for CIK 1037540 to 100005 characters.
+[11:17:41]   Downloading report for CIK 72903 (2024)…
+[11:17:41]   Truncated report for CIK 72903 to 100016 characters.
+[11:17:41]   Downloading report for CIK 1844452 (2024)…
+[11:17:41]   Truncated report for CIK 1844452 to 100016 characters.
+[11:17:41]   Downloading report for CIK 730708 (2024)…
+[11:17:41]   Truncated report for CIK 730708 to 99869 characters.
+[11:17:41]   Downloading report for CIK 3197 (2024)…
+[11:17:41]   Truncated report for CIK 3197 to 100016 characters.
+[11:17:41]   Downloading report for CIK 1725210 (2024)…
+[11:17:41]   Truncated report for CIK 1725210 to 99944 characters.
+[11:17:41]   Downloading report for CIK 1903392 (2024)…
+[11:17:42]   Truncated report for CIK 1903392 to 99979 characters.
+[11:17:42]   Downloading report for CIK 789460 (2024)…
+[11:17:42]   Truncated report for CIK 789460 to 100016 characters.
+[11:17:42]   Downloading report for CIK 1022671 (2024)…
+[11:17:42]   Truncated report for CIK 1022671 to 100016 characters.
+[11:17:42]   Downloading report for CIK 1809750 (2024)…
+[11:17:42]   Truncated report for CIK 1809750 to 100016 characters.
+[11:17:42]   Downloading report for CIK 1424404 (2024)…
+[11:17:42]   Truncated report for CIK 1424404 to 100016 characters.
+[11:17:42]   Downloading report for CIK 896493 (2024)…
+[11:17:42]   Truncated report for CIK 896493 to 100010 characters.
+[11:17:42]   Downloading report for CIK 1841156 (2024)…
+[11:17:43]   Truncated report for CIK 1841156 to 100016 characters.
+[11:17:43]   Downloading report for CIK 1824403 (2024)…
+[11:17:43]   Truncated report for CIK 1824403 to 100000 characters.
+[11:17:43]   Downloading report for CIK 1043000 (2024)…
+[11:17:43]   Truncated report for CIK 1043000 to 99989 characters.
+[11:17:43]   Downloading report for CIK 230557 (2024)…
+[11:17:43]   Truncated report for CIK 230557 to 100016 characters.
+[11:17:43]   Downloading report for CIK 1835268 (2024)…
+[11:17:43]   Truncated report for CIK 1835268 to 100016 characters.
+[11:17:43]   Downloading report for CIK 73124 (2024)…
+[11:17:44]   Truncated report for CIK 73124 to 100016 characters.
+[11:17:44]   Downloading report for CIK 1487712 (2024)…
+[11:17:44]   Truncated report for CIK 1487712 to 100016 characters.
+[11:17:44]   Downloading report for CIK 1824502 (2024)…
+[11:17:44]   Truncated report for CIK 1824502 to 99969 characters.
+[11:17:44]   Downloading report for CIK 1400810 (2024)…
+[11:17:44]   Truncated report for CIK 1400810 to 100016 characters.
+[11:17:44]   Downloading report for CIK 1501585 (2024)…
+[11:17:44]   Truncated report for CIK 1501585 to 99936 characters.
+[11:17:44]   Downloading report for CIK 7623 (2024)…
+[11:17:44]   Truncated report for CIK 7623 to 99950 characters.
+[11:17:44]   Downloading report for CIK 1093557 (2024)…
+[11:17:45]   Truncated report for CIK 1093557 to 100016 characters.
+[11:17:45]   Downloading report for CIK 850209 (2024)…
+[11:17:45]   Truncated report for CIK 850209 to 100016 characters.
+[11:17:45]   Downloading report for CIK 1267565 (2024)…
+[11:17:45]   Truncated report for CIK 1267565 to 100016 characters.
+[11:17:45]   Downloading report for CIK 1311370 (2024)…
+[11:17:45]   Truncated report for CIK 1311370 to 100016 characters.
+[11:17:45]   Downloading report for CIK 1083301 (2024)…
+[11:17:45]   Downloading report for CIK 1802974 (2024)…
+[11:17:45]   Truncated report for CIK 1802974 to 99883 characters.
+[11:17:45]   Downloading report for CIK 1852016 (2024)…
+[11:17:45]   Truncated report for CIK 1852016 to 100016 characters.
+[11:17:45]   Downloading report for CIK 1017480 (2024)…
+[11:17:46]   Truncated report for CIK 1017480 to 99902 characters.
+[11:17:46]   Downloading report for CIK 1563411 (2024)…
+[11:17:46]   Truncated report for CIK 1563411 to 99929 characters.
+[11:17:46]   Downloading report for CIK 1398987 (2024)…
+[11:17:46]   Truncated report for CIK 1398987 to 100016 characters.
+[11:17:46]   Downloading report for CIK 1158324 (2024)…
+[11:17:46]   Truncated report for CIK 1158324 to 99919 characters.
+[11:17:46]   Downloading report for CIK 1671927 (2024)…
+[11:17:46]   Truncated report for CIK 1671927 to 100016 characters.
+[11:17:46]   Downloading report for CIK 1393311 (2024)…
+[11:17:46]   Truncated report for CIK 1393311 to 100016 characters.
+[11:17:46]   Downloading report for CIK 949961 (2024)…
+[11:17:47]   Truncated report for CIK 949961 to 100003 characters.
+[11:17:47]   Downloading report for CIK 1476765 (2024)…
+[11:17:47]   Truncated report for CIK 1476765 to 100015 characters.
+[11:17:47]   Downloading report for CIK 51644 (2024)…
+[11:17:47]   Truncated report for CIK 51644 to 100016 characters.
+[11:17:47]   Downloading report for CIK 880641 (2024)…
+[11:17:47]   Truncated report for CIK 880641 to 100016 characters.
+[11:17:47]   Downloading report for CIK 72971 (2024)…
+[11:17:47]   Truncated report for CIK 72971 to 100016 characters.
+[11:17:47]   Downloading report for CIK 1710155 (2024)…
+[11:17:48]   Truncated report for CIK 1710155 to 100016 characters.
+[11:17:48]   Downloading report for CIK 824142 (2024)…
+[11:17:48]   Truncated report for CIK 824142 to 99877 characters.
+[11:17:48]   Downloading report for CIK 1603345 (2024)…
+[11:17:48]   Truncated report for CIK 1603345 to 100016 characters.
+[11:17:48]   Downloading report for CIK 57131 (2024)…
+[11:17:48]   Truncated report for CIK 57131 to 100016 characters.
+[11:17:48]   Downloading report for CIK 779152 (2024)…
+[11:17:48]   Truncated report for CIK 779152 to 100015 characters.
+[11:17:48]   Downloading report for CIK 1865200 (2024)…
+[11:17:48]   Truncated report for CIK 1865200 to 100016 characters.
+[11:17:48]   Downloading report for CIK 1099160 (2024)…
+[11:17:49]   Truncated report for CIK 1099160 to 100016 characters.
+[11:17:49]   Downloading report for CIK 1556593 (2024)…
+[11:17:49]   Truncated report for CIK 1556593 to 100016 characters.
+[11:17:49]   Downloading report for CIK 914156 (2024)…
+[11:17:49]   Truncated report for CIK 914156 to 100016 characters.
+[11:17:49]   Downloading report for CIK 1709682 (2024)…
+[11:17:49]   Truncated report for CIK 1709682 to 100016 characters.
+[11:17:49]   Downloading report for CIK 16058 (2024)…
+[11:17:49]   Truncated report for CIK 16058 to 100016 characters.
+[11:17:49]   Downloading report for CIK 1679628 (2024)…
+[11:17:49]   Truncated report for CIK 1679628 to 99910 characters.
+[11:17:49]   Downloading report for CIK 1610940 (2024)…
+[11:17:50]   Truncated report for CIK 1610940 to 99992 characters.
+[11:17:50]   Downloading report for CIK 1144980 (2024)…
+[11:17:50]   Truncated report for CIK 1144980 to 100016 characters.
+[11:17:50]   Downloading report for CIK 1539850 (2024)…
+[11:17:50]   Truncated report for CIK 1539850 to 99941 characters.
+[11:17:50]   Downloading report for CIK 1584754 (2024)…
+[11:17:50]   Downloading report for CIK 1481504 (2024)…
+[11:17:50]   Truncated report for CIK 1481504 to 100016 characters.
+[11:17:50]   Downloading report for CIK 1497649 (2024)…
+[11:17:50]   Truncated report for CIK 1497649 to 99891 characters.
+[11:17:50]   Downloading report for CIK 846913 (2024)…
+[11:17:51]   Truncated report for CIK 846913 to 100015 characters.
+[11:17:51]   Downloading report for CIK 1166003 (2024)…
+[11:17:51]   Truncated report for CIK 1166003 to 99868 characters.
+[11:17:51]   Downloading report for CIK 720858 (2024)…
+[11:17:51]   Truncated report for CIK 720858 to 99935 characters.
+[11:17:51]   Downloading report for CIK 1069878 (2024)…
+[11:17:51]   Truncated report for CIK 1069878 to 100016 characters.
+[11:17:51]   Downloading report for CIK 1580149 (2024)…
+[11:17:51]   Truncated report for CIK 1580149 to 99947 characters.
+[11:17:51]   Calling AI for batch 1 with 5 report(s)…
+[11:18:10]   Raw AI response: {
+  "id": "resp_68d265c0f9a081958c8c98796c0e0629074ed4c06f211a7a",
+  "object": "response",
+  "created_at": 1758619073,
+  "status": "completed",
+  "background": false,
+  "billing": {
+    "payer": "openai"
+  },
+  "error": null,
+  "incomplete_details": null,
+  "instructions": null,
+  "max_output_tokens": null,
+  "max_tool_calls": null,
+  "model": "gpt-5-mini-2025-08-07",
+  "output": [
+    {
+      "id": "rs_68d265c686688195b9369b2282982cca074ed4c06f211a7a",
+      "type": "reasoning",
+      "summary": []
+    },
+    {
+      "id": "msg_68d265c7f62c81959108f92f4191cfcf074ed4c06f211a7a",
+      "type": "message",
+      "status": "completed",
+      "content": [
+        {
+          "type": "output_text",
+          "annotations": [],
+          "logprobs": [],
+          "text": "[\n  {\"score\": 3, \"explanation\": \"Large diversified financial institution (Northern Trust) with extensive assets, diversified revenue and strong capital markets presence\u2014very low near-term bankruptcy risk.\"},\n  {\"score\": 8, \"explanation\": \"La\u2011Z\u2011Boy is a profitable, long\u2011established retailer/manufacturer with positive liquidity, listed status and manageable cyclical risks\u2014low bankruptcy risk.\"},\n  {\"score\": 40, \"explanation\": \"BioVie is a small clinical\u2011stage biotech with no product revenue, litigation, trial setbacks and dependence on external funding\u2014material near\u2011term bankruptcy risk.\"},\n  {\"score\": 6, \"explanation\": \"Community/regional bank holding company with stable deposit franchise, regulatory oversight and diversified loan book\u2014low bankruptcy risk.\"},\n  {\"score\": 12, \"explanation\": \"Constellium is a public industrial/metal producer with sizable revenues, global footprint and disclosed governance\u2014cyclical exposure but low near\u2011term bankruptcy risk.\"}\n]"
+        }
+      ],
+      "role": "assistant"
+    }
+  ],
+  "parallel_tool_calls": true,
+  "previous_response_id": null,
+  "prompt_cache_key": null,
+  "reasoning": {
+    "effort": "minimal",
+    "summary": null
+  },
+  "safety_identifier": null,
+  "service_tier": "default",
+  "store": true,
+  "temperature": 1.0,
+  "text": {
+    "format": {
+      "type": "text"
+    },
+    "verbosity": "low"
+  },
+  "tool_choice": "auto",
+  "tools": [],
+  "top_logprobs": 0,
+  "top_p": 1.0,
+  "truncation": "disabled",
+  "usage": {
+    "input_tokens": 129594,
+    "input_tokens_details": {
+      "cached_tokens": 0
+    },
+    "output_tokens": 217,
+    "output_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "total_tokens": 129811
+  },
+  "user": null,
+  "metadata": {}
+}
+[11:18:10]   Parsed 5 result(s).
+[11:18:10]   Calling AI for batch 2 with 5 report(s)…
+[11:18:29]   Raw AI response: {
+  "id": "resp_68d265d38ce881979f50148e5d9feb780b74fb9ae2894ac2",
+  "object": "response",
+  "created_at": 1758619091,
+  "status": "completed",
+  "background": false,
+  "billing": {
+    "payer": "openai"
+  },
+  "error": null,
+  "incomplete_details": null,
+  "instructions": null,
+  "max_output_tokens": null,
+  "max_tool_calls": null,
+  "model": "gpt-5-mini-2025-08-07",
+  "output": [
+    {
+      "id": "rs_68d265d79ec88197bd5b9ce5825bc0d90b74fb9ae2894ac2",
+      "type": "reasoning",
+      "summary": []
+    },
+    {
+      "id": "msg_68d265d8900c8197b20b7d8c5c7d31ea0b74fb9ae2894ac2",
+      "type": "message",
+      "status": "completed",
+      "content": [
+        {
+          "type": "output_text",
+          "annotations": [],
+          "logprobs": [],
+          "text": "[\n  {\n    \"score\": 5,\n    \"explanation\": \"Large, diversified S&P500 life\u2011sciences services company with $4.0B revenue, strong market position and access to capital; legal/regulatory and restructuring risks but bankruptcy unlikely within a year.\"\n  },\n  {\n    \"score\": 15,\n    \"explanation\": \"PNM (utility) with extensive regulated asset base and diversified financing but high leverage, large debt maturities and complex financings\u2014low near\u2011term bankruptcy probability but material refinancing risk.\"\n  },\n  {\n    \"score\": 60,\n    \"explanation\": \"SPAC with no operating revenues, limited operating history, reliance on completing a timely business combination and modest cash in trust\u2014substantial risk of failure/liquidation within a year.\"\n  },\n  {\n    \"score\": 10,\n    \"explanation\": \"World Kinect: profitable, diversified global energy services company with sizable market cap and established operations; exposed to commodity, credit and regulatory risks but low near\u2011term bankruptcy likelihood.\"\n  },\n  {\n    \"score\": 70,\n    \"explanation\": \"Hyperscale Data: small market cap, heavy reliance on volatile Bitcoin/crypto operations, repeated short\u2011term financings and convertible notes, frequent restructurings and recent bankrupt subsidiary\u2014high near\u2011term bankruptcy risk.\"\n  }\n]"
+        }
+      ],
+      "role": "assistant"
+    }
+  ],
+  "parallel_tool_calls": true,
+  "previous_response_id": null,
+  "prompt_cache_key": null,
+  "reasoning": {
+    "effort": "minimal",
+    "summary": null
+  },
+  "safety_identifier": null,
+  "service_tier": "default",
+  "store": true,
+  "temperature": 1.0,
+  "text": {
+    "format": {
+      "type": "text"
+    },
+    "verbosity": "low"
+  },
+  "tool_choice": "auto",
+  "tools": [],
+  "top_logprobs": 0,
+  "top_p": 1.0,
+  "truncation": "disabled",
+  "usage": {
+    "input_tokens": 126273,
+    "input_tokens_details": {
+      "cached_tokens": 0
+    },
+    "output_tokens": 285,
+    "output_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "total_tokens": 126558
+  },
+  "user": null,
+  "metadata": {}
+}
+[11:18:29]   Parsed 5 result(s).
+[11:18:29]   Calling AI for batch 3 with 5 report(s)…
+[11:18:42]   Raw AI response: {
+  "id": "resp_68d265e6eb7481909cf8ae5e253e091c03ec58b920200d6e",
+  "object": "response",
+  "created_at": 1758619110,
+  "status": "completed",
+  "background": false,
+  "billing": {
+    "payer": "openai"
+  },
+  "error": null,
+  "incomplete_details": null,
+  "instructions": null,
+  "max_output_tokens": null,
+  "max_tool_calls": null,
+  "model": "gpt-5-mini-2025-08-07",
+  "output": [
+    {
+      "id": "rs_68d265ec274081909de62c7f5feb08a203ec58b920200d6e",
+      "type": "reasoning",
+      "summary": []
+    },
+    {
+      "id": "msg_68d265ecf1e08190b102c1c03b73a76703ec58b920200d6e",
+      "type": "message",
+      "status": "completed",
+      "content": [
+        {
+          "type": "output_text",
+          "annotations": [],
+          "logprobs": [],
+          "text": "[\n  {\"score\": 5, \"explanation\": \"Large, diversified insurance group with established operations, regulatory filings current, strong capitalization indicators and no red flags in disclosure.\"},\n  {\"score\": 25, \"explanation\": \"Small foundry with concentration risk, reliance on few customers, need for financing for acquisition and expansion \u2014 elevated but not imminent default risk.\"},\n  {\"score\": 18, \"explanation\": \"Established REIT with diversified portfolio and stable cash flows but exposure to real estate cyclicality, leverage and litigation/partner collection uncertainty.\"},\n  {\"score\": 40, \"explanation\": \"Early-stage solar manufacturer with recurring losses, going-concern warning, limited cash, need for financing and production scaling risks \u2014 substantial near-term risk.\"},\n  {\"score\": 10, \"explanation\": \"Large residential brokerage with diversified services, positive cash-generating operations and public listing, though cyclical real estate exposure exists.\"}\n]"
+        }
+      ],
+      "role": "assistant"
+    }
+  ],
+  "parallel_tool_calls": true,
+  "previous_response_id": null,
+  "prompt_cache_key": null,
+  "reasoning": {
+    "effort": "minimal",
+    "summary": null
+  },
+  "safety_identifier": null,
+  "service_tier": "default",
+  "store": true,
+  "temperature": 1.0,
+  "text": {
+    "format": {
+      "type": "text"
+    },
+    "verbosity": "low"
+  },
+  "tool_choice": "auto",
+  "tools": [],
+  "top_logprobs": 0,
+  "top_p": 1.0,
+  "truncation": "disabled",
+  "usage": {
+    "input_tokens": 119589,
+    "input_tokens_details": {
+      "cached_tokens": 0
+    },
+    "output_tokens": 202,
+    "output_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "total_tokens": 119791
+  },
+  "user": null,
+  "metadata": {}
+}
+[11:18:42]   Parsed 5 result(s).
+[11:18:42]   Calling AI for batch 4 with 5 report(s)…
+[11:18:51]   Raw AI response: {
+  "id": "resp_68d265f3d37c81909b30d035a42ca72a03e9bb0a669ec276",
+  "object": "response",
+  "created_at": 1758619123,
+  "status": "completed",
+  "background": false,
+  "billing": {
+    "payer": "openai"
+  },
+  "error": null,
+  "incomplete_details": null,
+  "instructions": null,
+  "max_output_tokens": null,
+  "max_tool_calls": null,
+  "model": "gpt-5-mini-2025-08-07",
+  "output": [
+    {
+      "id": "rs_68d265f7a4fc8190901d62b8d8c6b5b603e9bb0a669ec276",
+      "type": "reasoning",
+      "summary": []
+    },
+    {
+      "id": "msg_68d265f7dfc48190b29243ea6c36940c03e9bb0a669ec276",
+      "type": "message",
+      "status": "completed",
+      "content": [
+        {
+          "type": "output_text",
+          "annotations": [],
+          "logprobs": [],
+          "text": "[\n  {\"score\":5,\"explanation\":\"PriceSmart: Large, profitable, long\u2011running regional retailer with strong membership revenue, positive scale and liquidity; main risks are FX and country/political exposure, but near\u2011term bankruptcy unlikely.\"},\n  {\"score\":40,\"explanation\":\"SiriusPoint: Reinsurance/insurance group with complex financial instruments, significant underwriting/catastrophe and market risks and leverage; moderate short\u2011term distress risk absent stronger capital or underwriting performance.\"},\n  {\"score\":25,\"explanation\":\"ExchangeRight Income Fund (REIT): Diversified net\u2011lease portfolio with stable cash flows and professional manager, but real estate leverage, refinancing and tenant/market risks elevate but not high near\u2011term insolvency risk.\"},\n  {\"score\":8,\"explanation\":\"Upwork: Market leader with strong gross services volume, recurring revenue, positive scale and ample liquidity indicators; competitive/AI risks exist but bankruptcy within a year is unlikely.\"},\n  {\"score\":60,\"explanation\":\"NextPlat: Small, loss\u2011making company with recent acquisitions, concentrated suppliers/customers, recurring losses and limited market cap (~$19M) suggesting elevated one\u2011year bankruptcy risk without financing or rapid cash generation.\"}\n]"
+        }
+      ],
+      "role": "assistant"
+    }
+  ],
+  "parallel_tool_calls": true,
+  "previous_response_id": null,
+  "prompt_cache_key": null,
+  "reasoning": {
+    "effort": "minimal",
+    "summary": null
+  },
+  "safety_identifier": null,
+  "service_tier": "default",
+  "store": true,
+  "temperature": 1.0,
+  "text": {
+    "format": {
+      "type": "text"
+    },
+    "verbosity": "low"
+  },
+  "tool_choice": "auto",
+  "tools": [],
+  "top_logprobs": 0,
+  "top_p": 1.0,
+  "truncation": "disabled",
+  "usage": {
+    "input_tokens": 127419,
+    "input_tokens_details": {
+      "cached_tokens": 0
+    },
+    "output_tokens": 258,
+    "output_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "total_tokens": 127677
+  },
+  "user": null,
+  "metadata": {}
+}
+[11:18:51]   Parsed 5 result(s).
+[11:18:51]   Calling AI for batch 5 with 5 report(s)…
+[11:19:00]   Raw AI response: {
+  "id": "resp_68d265fcb56881959ccad446b1f96e970e2747cb9d99bcb0",
+  "object": "response",
+  "created_at": 1758619132,
+  "status": "completed",
+  "background": false,
+  "billing": {
+    "payer": "openai"
+  },
+  "error": null,
+  "incomplete_details": null,
+  "instructions": null,
+  "max_output_tokens": null,
+  "max_tool_calls": null,
+  "model": "gpt-5-mini-2025-08-07",
+  "output": [
+    {
+      "id": "rs_68d26600e5688195a7ba20eee46ced090e2747cb9d99bcb0",
+      "type": "reasoning",
+      "summary": []
+    },
+    {
+      "id": "msg_68d266013a888195a0aa8ef147da0dc30e2747cb9d99bcb0",
+      "type": "message",
+      "status": "completed",
+      "content": [
+        {
+          "type": "output_text",
+          "annotations": [],
+          "logprobs": [],
+          "text": "[\n  {\"score\": 5, \"explanation\": \"Large diversified BDC with extensive portfolio and leverage risks but no indicators of imminent default; portfolio/market volatility primary risk.\"},\n  {\"score\": 3, \"explanation\": \"Carrier Global: large, profitable industrial with $22.5B sales, strong cash flow and recent asset sales; low near-term bankruptcy risk despite leverage.\"},\n  {\"score\": 4, \"explanation\": \"Boston Scientific: large, diversified medtech leader with strong market position and cash flows; regulatory and litigation risks but bankruptcy unlikely in next year.\"},\n  {\"score\": 60, \"explanation\": \"OS Therapies: clinical-stage biotech with minimal revenues, limited cash, going-concern doubts and near-term financing/approval dependency creating material short-term bankruptcy risk.\"},\n  {\"score\": 2, \"explanation\": \"Dell Technologies: very large, profitable global tech company with diverse revenue streams and significant liquidity; bankruptcy extremely unlikely next year.\"}\n]"
+        }
+      ],
+      "role": "assistant"
+    }
+  ],
+  "parallel_tool_calls": true,
+  "previous_response_id": null,
+  "prompt_cache_key": null,
+  "reasoning": {
+    "effort": "minimal",
+    "summary": null
+  },
+  "safety_identifier": null,
+  "service_tier": "default",
+  "store": true,
+  "temperature": 1.0,
+  "text": {
+    "format": {
+      "type": "text"
+    },
+    "verbosity": "low"
+  },
+  "tool_choice": "auto",
+  "tools": [],
+  "top_logprobs": 0,
+  "top_p": 1.0,
+  "truncation": "disabled",
+  "usage": {
+    "input_tokens": 127424,
+    "input_tokens_details": {
+      "cached_tokens": 0
+    },
+    "output_tokens": 212,
+    "output_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "total_tokens": 127636
+  },
+  "user": null,
+  "metadata": {}
+}
+[11:19:00]   Parsed 5 result(s).
+[11:19:00]   Calling AI for batch 6 with 5 report(s)…
+[11:19:11]   Raw AI response: {
+  "id": "resp_68d2660595f48190ba1221810a03eaa10057fca265c950ba",
+  "object": "response",
+  "created_at": 1758619141,
+  "status": "completed",
+  "background": false,
+  "billing": {
+    "payer": "openai"
+  },
+  "error": null,
+  "incomplete_details": null,
+  "instructions": null,
+  "max_output_tokens": null,
+  "max_tool_calls": null,
+  "model": "gpt-5-mini-2025-08-07",
+  "output": [
+    {
+      "id": "rs_68d2660b7e6c81908f61a6cbbde8e5c20057fca265c950ba",
+      "type": "reasoning",
+      "summary": []
+    },
+    {
+      "id": "msg_68d2660bb188819086ddcd7c9e670e120057fca265c950ba",
+      "type": "message",
+      "status": "completed",
+      "content": [
+        {
+          "type": "output_text",
+          "annotations": [],
+          "logprobs": [],
+          "text": "[\n  {\"score\": 20, \"explanation\": \"SPAC with minimal cash outside trust, going concern flagged but has trust funds and extension approvals; risk from deal execution and delisting but liquidation timeline gives moderate short-term survival likelihood.\"},\n  {\"score\": 8, \"explanation\": \"Large diversified logistics/warehouse operator (Americold) with extensive assets, stable operations and financing; sizable debt but investment-grade profile and global footprint make near-term bankruptcy unlikely.\"},\n  {\"score\": 6, \"explanation\": \"Anywhere Real Estate: large public company with diversified revenue streams, significant leverage and industry cyclicality but no going-concern issues\u2014low near-term bankruptcy risk.\"},\n  {\"score\": 5, \"explanation\": \"Phillips 66: major integrated energy company with substantial assets, diversified segments and access to capital markets despite large debt maturities\u2014very low one-year bankruptcy risk.\"},\n  {\"score\": 25, \"explanation\": \"Dirtt Environmental (small cap Canadian): limited market cap, history of amended filings, reliance on equity incentives and narrow liquidity; elevated short-term bankruptcy risk though not imminent.\"}\n]"
+        }
+      ],
+      "role": "assistant"
+    }
+  ],
+  "parallel_tool_calls": true,
+  "previous_response_id": null,
+  "prompt_cache_key": null,
+  "reasoning": {
+    "effort": "minimal",
+    "summary": null
+  },
+  "safety_identifier": null,
+  "service_tier": "default",
+  "store": true,
+  "temperature": 1.0,
+  "text": {
+    "format": {
+      "type": "text"
+    },
+    "verbosity": "low"
+  },
+  "tool_choice": "auto",
+  "tools": [],
+  "top_logprobs": 0,
+  "top_p": 1.0,
+  "truncation": "disabled",
+  "usage": {
+    "input_tokens": 130677,
+    "input_tokens_details": {
+      "cached_tokens": 0
+    },
+    "output_tokens": 242,
+    "output_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "total_tokens": 130919
+  },
+  "user": null,
+  "metadata": {}
+}
+[11:19:11]   Parsed 5 result(s).
+[11:19:11]   Calling AI for batch 7 with 5 report(s)…
+[11:19:20]   Raw AI response: {
+  "id": "resp_68d26610d22c8197b461570ac18338580d11fad566c16f6d",
+  "object": "response",
+  "created_at": 1758619152,
+  "status": "completed",
+  "background": false,
+  "billing": {
+    "payer": "openai"
+  },
+  "error": null,
+  "incomplete_details": null,
+  "instructions": null,
+  "max_output_tokens": null,
+  "max_tool_calls": null,
+  "model": "gpt-5-mini-2025-08-07",
+  "output": [
+    {
+      "id": "rs_68d266147bc8819794c9e8df512c22fb0d11fad566c16f6d",
+      "type": "reasoning",
+      "summary": []
+    },
+    {
+      "id": "msg_68d26614d3c88197a4b800aeabe921f10d11fad566c16f6d",
+      "type": "message",
+      "status": "completed",
+      "content": [
+        {
+          "type": "output_text",
+          "annotations": [],
+          "logprobs": [],
+          "text": "[\n  {\"score\":80,\"explanation\":\"Small clinical-stage biotech with negligible revenue, $6k cash, $2.66M current liabilities, substantial related\u2011party debt, recurring losses and going-concern warning \u2014 high near\u2011term financing/default risk.\"},\n  {\"score\":8,\"explanation\":\"Large, diversified public manufacturer (TPI) with established revenues, governance, and ongoing operations; low near\u2011term bankruptcy risk.\"},\n  {\"score\":30,\"explanation\":\"Clinical\u2011stage biopharma (Pliant) with recent trial discontinuation and R&D costs but notable cash runway risk moderate; early\u2011stage pipeline and partnerships mitigate some risk.\"},\n  {\"score\":20,\"explanation\":\"Small public holding company (Beeline) post\u2011merger with recent leadership/structure changes but modest scale and disclosed related\u2011party financings; moderate but not imminent risk.\"},\n  {\"score\":5,\"explanation\":\"Emergent BioSolutions is an established, diversified life\u2011sciences company with government contracts and recent asset sales and refinancing; low near\u2011term bankruptcy probability.\"}\n]"
+        }
+      ],
+      "role": "assistant"
+    }
+  ],
+  "parallel_tool_calls": true,
+  "previous_response_id": null,
+  "prompt_cache_key": null,
+  "reasoning": {
+    "effort": "minimal",
+    "summary": null
+  },
+  "safety_identifier": null,
+  "service_tier": "default",
+  "store": true,
+  "temperature": 1.0,
+  "text": {
+    "format": {
+      "type": "text"
+    },
+    "verbosity": "low"
+  },
+  "tool_choice": "auto",
+  "tools": [],
+  "top_logprobs": 0,
+  "top_p": 1.0,
+  "truncation": "disabled",
+  "usage": {
+    "input_tokens": 107727,
+    "input_tokens_details": {
+      "cached_tokens": 0
+    },
+    "output_tokens": 230,
+    "output_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "total_tokens": 107957
+  },
+  "user": null,
+  "metadata": {}
+}
+[11:19:20]   Parsed 5 result(s).
+[11:19:20]   Calling AI for batch 8 with 5 report(s)…
+[11:19:27]   Raw AI response: {
+  "id": "resp_68d2661945148196925d27ad97b04bab01b5a264929f273a",
+  "object": "response",
+  "created_at": 1758619161,
+  "status": "completed",
+  "background": false,
+  "billing": {
+    "payer": "openai"
+  },
+  "error": null,
+  "incomplete_details": null,
+  "instructions": null,
+  "max_output_tokens": null,
+  "max_tool_calls": null,
+  "model": "gpt-5-mini-2025-08-07",
+  "output": [
+    {
+      "id": "rs_68d2661bf4d48196ae6e4a461dc73d6b01b5a264929f273a",
+      "type": "reasoning",
+      "summary": []
+    },
+    {
+      "id": "msg_68d2661c1b8881969d3c2dabba3b5c4401b5a264929f273a",
+      "type": "message",
+      "status": "completed",
+      "content": [
+        {
+          "type": "output_text",
+          "annotations": [],
+          "logprobs": [],
+          "text": "[\n  {\"score\": 10, \"explanation\": \"Large regulated utility (CenterPoint) with extensive assets, stable cash flows and regulatory recovery mechanisms; execution/permit/market risks low\u2014bankruptcy within a year unlikely.\"},\n  {\"score\": 5, \"explanation\": \"Investors Title: small regional insurer with diversified investments, positive market cap (~$253M), compliant filings and reserves\u2014low near\u2011term bankruptcy risk.\"},\n  {\"score\": 40, \"explanation\": \"ClimateRock (SPAC): ongoing extensions, heavy redemptions, sponsor funding notes, concentrated sponsor control and pending business combination\u2014meaningful short\u2011term execution and liquidity risk.\"},\n  {\"score\": 35, \"explanation\": \"Akoustis Technologies: small cap, development\u2011stage tech company with recurring losses but public reporting, manageable governance and no material immediate distress\u2014moderate near\u2011term risk tied to cash runway.\"},\n  {\"score\": 45, \"explanation\": \"Vista Gold: development\u2011stage miner with no operating cash flow, substantial capital needs to build Mt Todd, reliance on financing/partners and commodity price sensitivity\u2014significant near\u2011term financing risk.\"}\n]"
+        }
+      ],
+      "role": "assistant"
+    }
+  ],
+  "parallel_tool_calls": true,
+  "previous_response_id": null,
+  "prompt_cache_key": null,
+  "reasoning": {
+    "effort": "minimal",
+    "summary": null
+  },
+  "safety_identifier": null,
+  "service_tier": "default",
+  "store": true,
+  "temperature": 1.0,
+  "text": {
+    "format": {
+      "type": "text"
+    },
+    "verbosity": "low"
+  },
+  "tool_choice": "auto",
+  "tools": [],
+  "top_logprobs": 0,
+  "top_p": 1.0,
+  "truncation": "disabled",
+  "usage": {
+    "input_tokens": 99746,
+    "input_tokens_details": {
+      "cached_tokens": 0
+    },
+    "output_tokens": 252,
+    "output_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "total_tokens": 99998
+  },
+  "user": null,
+  "metadata": {}
+}
+[11:19:27]   Parsed 5 result(s).
+[11:19:27]   Calling AI for batch 9 with 5 report(s)…
+[11:19:36]   Raw AI response: {
+  "id": "resp_68d26620708c81948c1e6b62e3c7ad6a06aeaa54e90c5505",
+  "object": "response",
+  "created_at": 1758619168,
+  "status": "completed",
+  "background": false,
+  "billing": {
+    "payer": "openai"
+  },
+  "error": null,
+  "incomplete_details": null,
+  "instructions": null,
+  "max_output_tokens": null,
+  "max_tool_calls": null,
+  "model": "gpt-5-mini-2025-08-07",
+  "output": [
+    {
+      "id": "rs_68d26624567881949c261ce907f845a406aeaa54e90c5505",
+      "type": "reasoning",
+      "summary": []
+    },
+    {
+      "id": "msg_68d266251f3c8194a4df6e9af070874d06aeaa54e90c5505",
+      "type": "message",
+      "status": "completed",
+      "content": [
+        {
+          "type": "output_text",
+          "annotations": [],
+          "logprobs": [],
+          "text": "[\n  {\"score\":12,\"explanation\":\"SPAC with $55.5M trust, minimal operating cash ($30k outside trust) and $1.79M working capital loans but no commercial operations; low near-term bankruptcy risk given trust protection and limited liabilities.\"},\n  {\"score\":30,\"explanation\":\"Early-stage semiconductor company, recurring losses (~$4.6M FY24), cash $1.29M, accumulated deficit $13.6M but recent contracts, government awards and ~$3.15M convertible notes indicate financing runway concerns yet viable near-term rescue risk moderate.\"},\n  {\"score\":8,\"explanation\":\"Large, profitable industrial equipment rental operator (Custom Truck) with diversified revenues, strong fleet and stable demand; leverage and industry cyclicality exist but bankruptcy risk very low.\"},\n  {\"score\":65,\"explanation\":\"Small clean-tech biotech with severe liquidity shortfalls (cash ~$52k), large write-downs, creditor defaults, mechanics liens, management turnover and reliance on uncertain bridge financing\u2014high near-term bankruptcy risk.\"},\n  {\"score\":3,\"explanation\":\"Major telecom operator (Charter) with large scale, strong cash flows and diversified services; regulatory and leverage risks exist but bankruptcy risk negligible within a year.\"}\n]"
+        }
+      ],
+      "role": "assistant"
+    }
+  ],
+  "parallel_tool_calls": true,
+  "previous_response_id": null,
+  "prompt_cache_key": null,
+  "reasoning": {
+    "effort": "minimal",
+    "summary": null
+  },
+  "safety_identifier": null,
+  "service_tier": "default",
+  "store": true,
+  "temperature": 1.0,
+  "text": {
+    "format": {
+      "type": "text"
+    },
+    "verbosity": "low"
+  },
+  "tool_choice": "auto",
+  "tools": [],
+  "top_logprobs": 0,
+  "top_p": 1.0,
+  "truncation": "disabled",
+  "usage": {
+    "input_tokens": 110860,
+    "input_tokens_details": {
+      "cached_tokens": 0
+    },
+    "output_tokens": 264,
+    "output_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "total_tokens": 111124
+  },
+  "user": null,
+  "metadata": {}
+}
+[11:19:36]   Parsed 5 result(s).
+[11:19:36]   Calling AI for batch 10 with 5 report(s)…
+[11:19:53]   Raw AI response: {
+  "id": "resp_68d26629dfb88193bb073a195ad24b73066c20fb98e81be3",
+  "object": "response",
+  "created_at": 1758619177,
+  "status": "completed",
+  "background": false,
+  "billing": {
+    "payer": "openai"
+  },
+  "error": null,
+  "incomplete_details": null,
+  "instructions": null,
+  "max_output_tokens": null,
+  "max_tool_calls": null,
+  "model": "gpt-5-mini-2025-08-07",
+  "output": [
+    {
+      "id": "rs_68d2662eac7c81939146e9fb07a52a7a066c20fb98e81be3",
+      "type": "reasoning",
+      "summary": []
+    },
+    {
+      "id": "msg_68d2662f7b6c8193b63038b3452f3834066c20fb98e81be3",
+      "type": "message",
+      "status": "completed",
+      "content": [
+        {
+          "type": "output_text",
+          "annotations": [],
+          "logprobs": [],
+          "text": "[{\"score\":8,\"explanation\":\"Armlogi Holding Corp: profitable recent revenue growth, positive net income, diversified services, sizable operations and customers; concentration risk in PRC clients and supplier (FedEx) but low short-term bankruptcy risk.\"},{\"score\":75,\"explanation\":\"Wolverine Resources Corp: exploration-stage junior miner with no revenues, recurring losses, working capital deficit, going-concern audit opinion and urgent need to raise ~$152k \u2014 high near-term bankruptcy risk.\"},{\"score\":3,\"explanation\":\"Asbury Automotive Group, Inc.: large, profitable, NYSE-listed Fortune 500 dealer group with strong cash flows, scale and access to capital; bankruptcy extremely unlikely within a year.\"},{\"score\":12,\"explanation\":\"Context Therapeutics Inc.: clinical-stage biotech with no profitability, cash burn, need for financing; however Nasdaq-listed with multiple programs and recent financings reduces immediate default likelihood (but still elevated biotech risk).\"},{\"score\":60,\"explanation\":\"Graphene & Solar Technologies Ltd.: OTC microcap with no revenues, recurring losses, working capital deficit, going-concern warning, reliance on imminent financing and asset sales \u2014 substantial near-term bankruptcy risk.\"}]"
+        }
+      ],
+      "role": "assistant"
+    }
+  ],
+  "parallel_tool_calls": true,
+  "previous_response_id": null,
+  "prompt_cache_key": null,
+  "reasoning": {
+    "effort": "minimal",
+    "summary": null
+  },
+  "safety_identifier": null,
+  "service_tier": "default",
+  "store": true,
+  "temperature": 1.0,
+  "text": {
+    "format": {
+      "type": "text"
+    },
+    "verbosity": "low"
+  },
+  "tool_choice": "auto",
+  "tools": [],
+  "top_logprobs": 0,
+  "top_p": 1.0,
+  "truncation": "disabled",
+  "usage": {
+    "input_tokens": 114527,
+    "input_tokens_details": {
+      "cached_tokens": 0
+    },
+    "output_tokens": 248,
+    "output_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "total_tokens": 114775
+  },
+  "user": null,
+  "metadata": {}
+}
+[11:19:53]   Parsed 5 result(s).
+[11:19:53]   Calling AI for batch 11 with 5 report(s)…
+[11:20:02]   Raw AI response: {
+  "id": "resp_68d2663a66648194a03f4a89583fb74605b9fd9f76fde682",
+  "object": "response",
+  "created_at": 1758619194,
+  "status": "completed",
+  "background": false,
+  "billing": {
+    "payer": "openai"
+  },
+  "error": null,
+  "incomplete_details": null,
+  "instructions": null,
+  "max_output_tokens": null,
+  "max_tool_calls": null,
+  "model": "gpt-5-mini-2025-08-07",
+  "output": [
+    {
+      "id": "rs_68d2663d54c481949eb262cf9ca97b4905b9fd9f76fde682",
+      "type": "reasoning",
+      "summary": []
+    },
+    {
+      "id": "msg_68d2663e1d348194808cd6bcb585035e05b9fd9f76fde682",
+      "type": "message",
+      "status": "completed",
+      "content": [
+        {
+          "type": "output_text",
+          "annotations": [],
+          "logprobs": [],
+          "text": "[\n  {\"score\": 25, \"explanation\": \"Early-stage/public company with substantial equity issuance, significant related-party transactions, modest revenues and material governance/going concern disclosures \u2014 but Nasdaq listing, industry partners and cash runway improvements reduce near-term default risk.\"},\n  {\"score\": 75, \"explanation\": \"Small, cash\u2011strained shell with recurring losses, working capital deficit, convertible debt in default, substantial doubt expressed by auditors, and immediate liquidity needs \u2014 high near\u2011term bankruptcy risk.\"},\n  {\"score\": 5, \"explanation\": \"Large, regulated utility with stable cash flows, diversified asset base, regulated recovery mechanisms and investment\u2011grade profile \u2014 very low 1\u2011year bankruptcy likelihood.\"},\n  {\"score\": 8, \"explanation\": \"Clinical\u2011stage biotech with approved partnered products, strong collaborations, manufacturing revenue and substantial cash\u2011generating partnerships \u2014 low near\u2011term bankruptcy risk though clinical setbacks remain a business risk.\"},\n  {\"score\": 20, \"explanation\": \"Investment/BDC vehicle with external manager, modest operating history, reliance on capital markets and leverage but diversified portfolio acquisitions and institutional support \u2014 moderate but not immediate bankruptcy risk.\"}\n]"
+        }
+      ],
+      "role": "assistant"
+    }
+  ],
+  "parallel_tool_calls": true,
+  "previous_response_id": null,
+  "prompt_cache_key": null,
+  "reasoning": {
+    "effort": "minimal",
+    "summary": null
+  },
+  "safety_identifier": null,
+  "service_tier": "default",
+  "store": true,
+  "temperature": 1.0,
+  "text": {
+    "format": {
+      "type": "text"
+    },
+    "verbosity": "low"
+  },
+  "tool_choice": "auto",
+  "tools": [],
+  "top_logprobs": 0,
+  "top_p": 1.0,
+  "truncation": "disabled",
+  "usage": {
+    "input_tokens": 110441,
+    "input_tokens_details": {
+      "cached_tokens": 0
+    },
+    "output_tokens": 250,
+    "output_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "total_tokens": 110691
+  },
+  "user": null,
+  "metadata": {}
+}
+[11:20:02]   Parsed 5 result(s).
+[11:20:02]   Calling AI for batch 12 with 5 report(s)…
+[11:20:12]   Raw AI response: {
+  "id": "resp_68d266441f4c8190a35b70d0e371ac890ac8c606895339bd",
+  "object": "response",
+  "created_at": 1758619204,
+  "status": "completed",
+  "background": false,
+  "billing": {
+    "payer": "openai"
+  },
+  "error": null,
+  "incomplete_details": null,
+  "instructions": null,
+  "max_output_tokens": null,
+  "max_tool_calls": null,
+  "model": "gpt-5-mini-2025-08-07",
+  "output": [
+    {
+      "id": "rs_68d2664844888190af024f02a75fb5b80ac8c606895339bd",
+      "type": "reasoning",
+      "summary": []
+    },
+    {
+      "id": "msg_68d26648b0f081909f7ccc17f7c91df00ac8c606895339bd",
+      "type": "message",
+      "status": "completed",
+      "content": [
+        {
+          "type": "output_text",
+          "annotations": [],
+          "logprobs": [],
+          "text": "[{\"score\":8,\"explanation\":\"First Northwest Bancorp \u2014 Well-capitalized community bank with $2.23B assets, $153.9M equity, diversified deposits and regulatory oversight; low near-term default risk.\"},{\"score\":85,\"explanation\":\"NetBrands Corp \u2014 Early-stage OTC penny stock with operating losses, zero cash, going-concern warning, heavy debt/forbearance and recurring defaults; high near-term bankruptcy risk.\"},{\"score\":12,\"explanation\":\"Apellis Pharmaceuticals \u2014 Commercial biopharma with approved products, substantial revenue (SYFOVRE/EMPAVELI) but large losses; strong cash generation potential reduces 1-year bankruptcy risk.\"},{\"score\":6,\"explanation\":\"UFP Technologies \u2014 Established, profitable industrial manufacturer with diversified customers, Nasdaq-listed, positive cash flows and sizable market cap; bankruptcy very unlikely within a year.\"},{\"score\":78,\"explanation\":\"Alterola Biotech \u2014 Pre-revenue biotech with accumulated deficit, going-concern doubts, dependence on financing and regulatory milestones; high probability of failure or bankruptcy within a year without funding.\"}]"
+        }
+      ],
+      "role": "assistant"
+    }
+  ],
+  "parallel_tool_calls": true,
+  "previous_response_id": null,
+  "prompt_cache_key": null,
+  "reasoning": {
+    "effort": "minimal",
+    "summary": null
+  },
+  "safety_identifier": null,
+  "service_tier": "default",
+  "store": true,
+  "temperature": 1.0,
+  "text": {
+    "format": {
+      "type": "text"
+    },
+    "verbosity": "low"
+  },
+  "tool_choice": "auto",
+  "tools": [],
+  "top_logprobs": 0,
+  "top_p": 1.0,
+  "truncation": "disabled",
+  "usage": {
+    "input_tokens": 116519,
+    "input_tokens_details": {
+      "cached_tokens": 0
+    },
+    "output_tokens": 230,
+    "output_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "total_tokens": 116749
+  },
+  "user": null,
+  "metadata": {}
+}
+[11:20:12]   Parsed 5 result(s).
+[11:20:12]   Calling AI for batch 13 with 5 report(s)…
+[11:20:21]   Raw AI response: {
+  "id": "resp_68d2664d88488195b78d7b2969681113084a06797ac80474",
+  "object": "response",
+  "created_at": 1758619213,
+  "status": "completed",
+  "background": false,
+  "billing": {
+    "payer": "openai"
+  },
+  "error": null,
+  "incomplete_details": null,
+  "instructions": null,
+  "max_output_tokens": null,
+  "max_tool_calls": null,
+  "model": "gpt-5-mini-2025-08-07",
+  "output": [
+    {
+      "id": "rs_68d26651e28081959f4528126de8567e084a06797ac80474",
+      "type": "reasoning",
+      "summary": []
+    },
+    {
+      "id": "msg_68d266528a60819592dc2149b0db27b7084a06797ac80474",
+      "type": "message",
+      "status": "completed",
+      "content": [
+        {
+          "type": "output_text",
+          "annotations": [],
+          "logprobs": [],
+          "text": "[\n  {\"score\": 2, \"explanation\": \"Large, diversified defense prime with stable gov't revenue, large backlog, strong liquidity and investment-grade profile; very low near-term bankruptcy risk.\"},\n  {\"score\": 20, \"explanation\": \"Midstream compression MLP with concentrated customers, significant debt maturities and reliance on Energy Transfer support but stable cash flows and liquidity measures reduce near-term risk.\"},\n  {\"score\": 5, \"explanation\": \"Large, diversified global gambling operator with strong scale, diversified geographies/products and healthy revenues; regulatory and operational risks but low near-term solvency risk.\"},\n  {\"score\": 15, \"explanation\": \"Independent E&P and well services mid\u2011cap with oil-weighted production, modest leverage, hedging and free cash focus; commodity and regulatory risks raise but not dominate near-term default risk.\"},\n  {\"score\": 3, \"explanation\": \"Global advisory and asset manager with strong franchise, diversified revenues, capital markets access and conservative balance sheet; very low near-term bankruptcy probability.\"}\n]"
+        }
+      ],
+      "role": "assistant"
+    }
+  ],
+  "parallel_tool_calls": true,
+  "previous_response_id": null,
+  "prompt_cache_key": null,
+  "reasoning": {
+    "effort": "minimal",
+    "summary": null
+  },
+  "safety_identifier": null,
+  "service_tier": "default",
+  "store": true,
+  "temperature": 1.0,
+  "text": {
+    "format": {
+      "type": "text"
+    },
+    "verbosity": "low"
+  },
+  "tool_choice": "auto",
+  "tools": [],
+  "top_logprobs": 0,
+  "top_p": 1.0,
+  "truncation": "disabled",
+  "usage": {
+    "input_tokens": 122310,
+    "input_tokens_details": {
+      "cached_tokens": 0
+    },
+    "output_tokens": 227,
+    "output_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "total_tokens": 122537
+  },
+  "user": null,
+  "metadata": {}
+}
+[11:20:21]   Parsed 5 result(s).
+[11:20:21]   Calling AI for batch 14 with 5 report(s)…
+[11:20:30]   Raw AI response: {
+  "id": "resp_68d2665732bc819098fbdb10c005a1f20a50baa6429534b1",
+  "object": "response",
+  "created_at": 1758619223,
+  "status": "completed",
+  "background": false,
+  "billing": {
+    "payer": "openai"
+  },
+  "error": null,
+  "incomplete_details": null,
+  "instructions": null,
+  "max_output_tokens": null,
+  "max_tool_calls": null,
+  "model": "gpt-5-mini-2025-08-07",
+  "output": [
+    {
+      "id": "rs_68d2665b22d8819086702dfd2deaf8f50a50baa6429534b1",
+      "type": "reasoning",
+      "summary": []
+    },
+    {
+      "id": "msg_68d2665bf08481908974eb612f8b39450a50baa6429534b1",
+      "type": "message",
+      "status": "completed",
+      "content": [
+        {
+          "type": "output_text",
+          "annotations": [],
+          "logprobs": [],
+          "text": "[\n  {\"score\": 5, \"explanation\": \"Large established public healthcare services company with diversified contracts, positive market cap (~$620M mid-2024), historical profitability, manageable credit risk exposure to healthcare customers; main risks are customer concentration and receivable reserves.\"},\n  {\"score\": 3, \"explanation\": \"Illinois Tool Works is a large, diversified, highly profitable industrial conglomerate with strong balance sheet, global operations and ample liquidity; low near-term bankruptcy risk absent severe macro shocks.\"},\n  {\"score\": 6, \"explanation\": \"Dexcom is a profitable, market-leading medtech company with strong growth, large market cap and regulatory approvals but faces product/manufacturing, reimbursement and regulatory risks; bankruptcy risk remains very low.\"},\n  {\"score\": 4, \"explanation\": \"CACI is a profitable, cash-generative government contractor with stable backlog, strong government exposure and conservative balance sheet; risks from dependence on government budgets but low near-term bankruptcy probability.\"},\n  {\"score\": 8, \"explanation\": \"KKR Enhanced US Direct Lending Fund-L is a closed-end BDC/private credit vehicle with concentrated private loan exposures and leverage; fair diversification but higher credit and liquidity risk could pressure NAV in downturns, modest near-term bankruptcy risk.\"}\n]"
+        }
+      ],
+      "role": "assistant"
+    }
+  ],
+  "parallel_tool_calls": true,
+  "previous_response_id": null,
+  "prompt_cache_key": null,
+  "reasoning": {
+    "effort": "minimal",
+    "summary": null
+  },
+  "safety_identifier": null,
+  "service_tier": "default",
+  "store": true,
+  "temperature": 1.0,
+  "text": {
+    "format": {
+      "type": "text"
+    },
+    "verbosity": "low"
+  },
+  "tool_choice": "auto",
+  "tools": [],
+  "top_logprobs": 0,
+  "top_p": 1.0,
+  "truncation": "disabled",
+  "usage": {
+    "input_tokens": 109524,
+    "input_tokens_details": {
+      "cached_tokens": 0
+    },
+    "output_tokens": 272,
+    "output_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "total_tokens": 109796
+  },
+  "user": null,
+  "metadata": {}
+}
+[11:20:30]   Parsed 5 result(s).
+[11:20:30]   Calling AI for batch 15 with 5 report(s)…
+[11:20:45]   Raw AI response: {
+  "id": "resp_68d266600bc4819793664be26710aea70079875a344ef170",
+  "object": "response",
+  "created_at": 1758619232,
+  "status": "completed",
+  "background": false,
+  "billing": {
+    "payer": "openai"
+  },
+  "error": null,
+  "incomplete_details": null,
+  "instructions": null,
+  "max_output_tokens": null,
+  "max_tool_calls": null,
+  "model": "gpt-5-mini-2025-08-07",
+  "output": [
+    {
+      "id": "rs_68d26668d87c8197a437002626640f2b0079875a344ef170",
+      "type": "reasoning",
+      "summary": []
+    },
+    {
+      "id": "msg_68d266698630819786561e12e5a045520079875a344ef170",
+      "type": "message",
+      "status": "completed",
+      "content": [
+        {
+          "type": "output_text",
+          "annotations": [],
+          "logprobs": [],
+          "text": "[\n  {\"score\": 5, \"explanation\": \"Large, diversified media conglomerate with established governance, positive market cap and improving cash flow metrics; low near-term bankruptcy risk.\"},\n  {\"score\": 25, \"explanation\": \"Mid\u2011cap textile manufacturer facing weak demand, margin pressure, working capital reliance and modest liquidity \u2014 elevated but not imminent risk.\"},\n  {\"score\": 3, \"explanation\": \"Global diversified industrial (Eaton) with strong revenues, market leadership and broad diversification; bankruptcy extremely unlikely within a year.\"},\n  {\"score\": 10, \"explanation\": \"Regional bank with typical credit/interest-rate risks and exposures but regulated, capitalized and operating normally \u2014 low near\u2011term default probability.\"},\n  {\"score\": 2, \"explanation\": \"Very large diversified conglomerate (Berkshire Hathaway) with enormous capital, insurance float and investment resources; negligible near\u2011term bankruptcy risk.\"}\n]"
+        }
+      ],
+      "role": "assistant"
+    }
+  ],
+  "parallel_tool_calls": true,
+  "previous_response_id": null,
+  "prompt_cache_key": null,
+  "reasoning": {
+    "effort": "minimal",
+    "summary": null
+  },
+  "safety_identifier": null,
+  "service_tier": "default",
+  "store": true,
+  "temperature": 1.0,
+  "text": {
+    "format": {
+      "type": "text"
+    },
+    "verbosity": "low"
+  },
+  "tool_choice": "auto",
+  "tools": [],
+  "top_logprobs": 0,
+  "top_p": 1.0,
+  "truncation": "disabled",
+  "usage": {
+    "input_tokens": 128790,
+    "input_tokens_details": {
+      "cached_tokens": 0
+    },
+    "output_tokens": 202,
+    "output_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "total_tokens": 128992
+  },
+  "user": null,
+  "metadata": {}
+}
+[11:20:45]   Parsed 5 result(s).
+[11:20:45]   Calling AI for batch 16 with 5 report(s)…
+[11:21:00]   Raw AI response: {
+  "id": "resp_68d2666e71348196815e0a9a7be926530b1c25a7a5ba80ae",
+  "object": "response",
+  "created_at": 1758619246,
+  "status": "completed",
+  "background": false,
+  "billing": {
+    "payer": "openai"
+  },
+  "error": null,
+  "incomplete_details": null,
+  "instructions": null,
+  "max_output_tokens": null,
+  "max_tool_calls": null,
+  "model": "gpt-5-mini-2025-08-07",
+  "output": [
+    {
+      "id": "rs_68d2667792dc81968de13a5e5423a6e20b1c25a7a5ba80ae",
+      "type": "reasoning",
+      "summary": []
+    },
+    {
+      "id": "msg_68d26677e7fc8196aed94a5eff60c2a80b1c25a7a5ba80ae",
+      "type": "message",
+      "status": "completed",
+      "content": [
+        {
+          "type": "output_text",
+          "annotations": [],
+          "logprobs": [],
+          "text": "[\n  {\"score\": 8, \"explanation\": \"Commercial-stage biopharma with approved product, growing revenues, established collaborations and strong IP; typical biotech clinical/regulatory risks but solid cash generation\u2014low near-term bankruptcy risk.\"},\n  {\"score\": 22, \"explanation\": \"Large accelerated industrial company with diversified revenues, substantial debt facilities and significant pension/hedging complexity; cyclical auto markets and leverage raise short-term risk modestly.\"},\n  {\"score\": 65, \"explanation\": \"Microcap SPAC-acquirer with complex related-party financings, extensive convertible/PIK notes and litigation/contingent liabilities, repeated subsequent events and going-concern indicators\u2014high near-term risk.\"},\n  {\"score\": 10, \"explanation\": \"Homebuilder with scale, positive operating cash flow history, large lot inventory and strong market presence, though cyclical housing and land/development risks moderate likelihood.\"},\n  {\"score\": 3, \"explanation\": \"Established fintech (Jack Henry) with recurring revenue, high client retention, strong cash flows and low leverage \u2014 very low near-term bankruptcy risk.\"}\n]"
+        }
+      ],
+      "role": "assistant"
+    }
+  ],
+  "parallel_tool_calls": true,
+  "previous_response_id": null,
+  "prompt_cache_key": null,
+  "reasoning": {
+    "effort": "minimal",
+    "summary": null
+  },
+  "safety_identifier": null,
+  "service_tier": "default",
+  "store": true,
+  "temperature": 1.0,
+  "text": {
+    "format": {
+      "type": "text"
+    },
+    "verbosity": "low"
+  },
+  "tool_choice": "auto",
+  "tools": [],
+  "top_logprobs": 0,
+  "top_p": 1.0,
+  "truncation": "disabled",
+  "usage": {
+    "input_tokens": 115463,
+    "input_tokens_details": {
+      "cached_tokens": 0
+    },
+    "output_tokens": 240,
+    "output_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "total_tokens": 115703
+  },
+  "user": null,
+  "metadata": {}
+}
+[11:21:00]   Parsed 5 result(s).
+[11:21:00]   Calling AI for batch 17 with 5 report(s)…
+[11:21:13]   Raw AI response: {
+  "id": "resp_68d2667db4488190a4062dd9471701e9074232b244abfc23",
+  "object": "response",
+  "created_at": 1758619261,
+  "status": "completed",
+  "background": false,
+  "billing": {
+    "payer": "openai"
+  },
+  "error": null,
+  "incomplete_details": null,
+  "instructions": null,
+  "max_output_tokens": null,
+  "max_tool_calls": null,
+  "model": "gpt-5-mini-2025-08-07",
+  "output": [
+    {
+      "id": "rs_68d2668509cc8190a82dbb8f074f44ec074232b244abfc23",
+      "type": "reasoning",
+      "summary": []
+    },
+    {
+      "id": "msg_68d26685908481909eac952c91ccdbdc074232b244abfc23",
+      "type": "message",
+      "status": "completed",
+      "content": [
+        {
+          "type": "output_text",
+          "annotations": [],
+          "logprobs": [],
+          "text": "[\n  {\"score\": 5, \"explanation\": \"Large, profitable NYSE-listed consumer security hardware company with $1.26B market cap, diversified channels, subscription growth focus and no red flags in disclosure.\"},\n  {\"score\": 8, \"explanation\": \"Large diversified aircraft lessor with $28B fleet, strong lease utilization, investment-grade ratings but high leverage ($20B debt) and capital-intensive commitments; moderate refinancing risk.\"},\n  {\"score\": 30, \"explanation\": \"Early\u2011stage eVTOL/urban air mobility company (Eve) with no revenue to date, heavy R&D/certification capital needs, dependency on Embraer and regulatory milestones\u2014substantial execution and financing risk.\"},\n  {\"score\": 12, \"explanation\": \"Global sterilization and testing provider with strong market positions (Nordion, Sterigenics, Nelson), recurring revenue, regulatory/legal litigation exposure (EO suits) and significant regulation risk but stable cash flows.\"},\n  {\"score\": 4, \"explanation\": \"Trex is a mature, profitable market leader in composite decking with broad distribution, strong brand, healthy margins and manageable operational and commodity risks.\"}\n]"
+        }
+      ],
+      "role": "assistant"
+    }
+  ],
+  "parallel_tool_calls": true,
+  "previous_response_id": null,
+  "prompt_cache_key": null,
+  "reasoning": {
+    "effort": "minimal",
+    "summary": null
+  },
+  "safety_identifier": null,
+  "service_tier": "default",
+  "store": true,
+  "temperature": 1.0,
+  "text": {
+    "format": {
+      "type": "text"
+    },
+    "verbosity": "low"
+  },
+  "tool_choice": "auto",
+  "tools": [],
+  "top_logprobs": 0,
+  "top_p": 1.0,
+  "truncation": "disabled",
+  "usage": {
+    "input_tokens": 109699,
+    "input_tokens_details": {
+      "cached_tokens": 0
+    },
+    "output_tokens": 254,
+    "output_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "total_tokens": 109953
+  },
+  "user": null,
+  "metadata": {}
+}
+[11:21:13]   Parsed 5 result(s).
+[11:21:13]   Calling AI for batch 18 with 5 report(s)…
+[11:21:27]   Raw AI response: {
+  "id": "resp_68d2668ad17881979c6d1d96a49836190f699ef3d5526b50",
+  "object": "response",
+  "created_at": 1758619274,
+  "status": "completed",
+  "background": false,
+  "billing": {
+    "payer": "openai"
+  },
+  "error": null,
+  "incomplete_details": null,
+  "instructions": null,
+  "max_output_tokens": null,
+  "max_tool_calls": null,
+  "model": "gpt-5-mini-2025-08-07",
+  "output": [
+    {
+      "id": "rs_68d266938f8c819785f9ae63f6d85f940f699ef3d5526b50",
+      "type": "reasoning",
+      "summary": []
+    },
+    {
+      "id": "msg_68d26693f2948197a7acda07df9110a40f699ef3d5526b50",
+      "type": "message",
+      "status": "completed",
+      "content": [
+        {
+          "type": "output_text",
+          "annotations": [],
+          "logprobs": [],
+          "text": "[\n  {\"score\": 12, \"explanation\": \"Large diversified public operator with positive market cap, growing backlog, established financing and no acute distress signals; leverage and transaction-related debt raise medium but manageable risk.\"},\n  {\"score\": 65, \"explanation\": \"Clinical-stage biotech with no product revenue, historical operating losses, reliance on upcoming pivotal data and substantial funding needs; high probability of needing financing or facing distress within a year.\"},\n  {\"score\": 8, \"explanation\": \"Exchange-traded fund sponsor with liquid assets, diversified portfolio holdings, established revenues and modest operational risks; market volatility is primary risk but bankruptcy unlikely.\"},\n  {\"score\": 18, \"explanation\": \"Commercial pharmaceutical company with marketed products, solid revenues, patent protection and access to capital but exposure to litigation, regulation and debt; bankruptcy unlikely in near term.\"},\n  {\"score\": 20, \"explanation\": \"Senior living REIT/operator with large portfolio, steady cash flows, substantial debt and refinancing needs; liquidity and covenant risks exist but not immediate insolvency indicators.\"}\n]"
+        }
+      ],
+      "role": "assistant"
+    }
+  ],
+  "parallel_tool_calls": true,
+  "previous_response_id": null,
+  "prompt_cache_key": null,
+  "reasoning": {
+    "effort": "minimal",
+    "summary": null
+  },
+  "safety_identifier": null,
+  "service_tier": "default",
+  "store": true,
+  "temperature": 1.0,
+  "text": {
+    "format": {
+      "type": "text"
+    },
+    "verbosity": "low"
+  },
+  "tool_choice": "auto",
+  "tools": [],
+  "top_logprobs": 0,
+  "top_p": 1.0,
+  "truncation": "disabled",
+  "usage": {
+    "input_tokens": 111327,
+    "input_tokens_details": {
+      "cached_tokens": 0
+    },
+    "output_tokens": 229,
+    "output_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "total_tokens": 111556
+  },
+  "user": null,
+  "metadata": {}
+}
+[11:21:27]   Parsed 5 result(s).
+[11:21:27]   Calling AI for batch 19 with 5 report(s)…
+[11:21:40]   Raw AI response: {
+  "id": "resp_68d26698d1a881939443ec4ea597253901c9930a4aedf03e",
+  "object": "response",
+  "created_at": 1758619288,
+  "status": "completed",
+  "background": false,
+  "billing": {
+    "payer": "openai"
+  },
+  "error": null,
+  "incomplete_details": null,
+  "instructions": null,
+  "max_output_tokens": null,
+  "max_tool_calls": null,
+  "model": "gpt-5-mini-2025-08-07",
+  "output": [
+    {
+      "id": "rs_68d266a1710881939af3887cf22be6ce01c9930a4aedf03e",
+      "type": "reasoning",
+      "summary": []
+    },
+    {
+      "id": "msg_68d266a1b2348193ab660c25387cac2001c9930a4aedf03e",
+      "type": "message",
+      "status": "completed",
+      "content": [
+        {
+          "type": "output_text",
+          "annotations": [],
+          "logprobs": [],
+          "text": "[\n  {\"score\":70,\"explanation\":\"Clinical-stage biotech with history of losses, auditor going-concern, needs substantial funding and dependent on one drug's approval; positive Phase data reduces but does not eliminate near-term funding/regulatory risk.\"},\n  {\"score\":3,\"explanation\":\"Large, diversified global bank with scale, stable deposits and diversified revenue \u2014 very low near-term bankruptcy risk.\"},\n  {\"score\":45,\"explanation\":\"SPAC with repeated extensions, litigation over proposed business combination, reliance on consummating a deal and trust account funds \u2014 moderate short-term risk until deal resolves.\"},\n  {\"score\":2,\"explanation\":\"Large, profitable, diversified software company (Cadence) with strong cash flows and market position \u2014 negligible near-term bankruptcy risk.\"},\n  {\"score\":55,\"explanation\":\"Commercial lunar company with limited revenue, history of losses, heavy dependence on government awards, supply/launch risks and need for additional capital \u2014 substantial near-term execution and financing risk.\"}\n]"
+        }
+      ],
+      "role": "assistant"
+    }
+  ],
+  "parallel_tool_calls": true,
+  "previous_response_id": null,
+  "prompt_cache_key": null,
+  "reasoning": {
+    "effort": "minimal",
+    "summary": null
+  },
+  "safety_identifier": null,
+  "service_tier": "default",
+  "store": true,
+  "temperature": 1.0,
+  "text": {
+    "format": {
+      "type": "text"
+    },
+    "verbosity": "low"
+  },
+  "tool_choice": "auto",
+  "tools": [],
+  "top_logprobs": 0,
+  "top_p": 1.0,
+  "truncation": "disabled",
+  "usage": {
+    "input_tokens": 119100,
+    "input_tokens_details": {
+      "cached_tokens": 0
+    },
+    "output_tokens": 209,
+    "output_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "total_tokens": 119309
+  },
+  "user": null,
+  "metadata": {}
+}
+[11:21:40]   Parsed 5 result(s).
+[11:21:40]   Calling AI for batch 20 with 5 report(s)…
+[11:21:56]   Raw AI response: {
+  "id": "resp_68d266a63c6c81979f03dfe9837254370e2cfde8f2778712",
+  "object": "response",
+  "created_at": 1758619302,
+  "status": "completed",
+  "background": false,
+  "billing": {
+    "payer": "openai"
+  },
+  "error": null,
+  "incomplete_details": null,
+  "instructions": null,
+  "max_output_tokens": null,
+  "max_tool_calls": null,
+  "model": "gpt-5-mini-2025-08-07",
+  "output": [
+    {
+      "id": "rs_68d266ae7bac8197b9bdf1ca9b22d80d0e2cfde8f2778712",
+      "type": "reasoning",
+      "summary": []
+    },
+    {
+      "id": "msg_68d266af2b7c8197a7bfc72d9d28c9cb0e2cfde8f2778712",
+      "type": "message",
+      "status": "completed",
+      "content": [
+        {
+          "type": "output_text",
+          "annotations": [],
+          "logprobs": [],
+          "text": "[\n  {\"score\": 5, \"explanation\": \"Large, profitable retailer with diversified banners, strong market position and recent liquidity (market cap ~$1.3B); typical retail risks (supplier concentration on Nike) but low near-term bankruptcy risk.\"},\n  {\"score\": 10, \"explanation\": \"Hibbett is a smaller specialty retailer with stable governance and experienced management; retail cyclicality and concentration risks exist but no clear distress indicators in filing.\"},\n  {\"score\": 25, \"explanation\": \"Beasley is a small radio broadcaster with low market cap (~$6.3M non-affiliate value noted earlier), cyclical ad revenues, concentrated markets, regulatory risks and substantial debt exposure raising moderate near-term bankruptcy risk.\"},\n  {\"score\": 3, \"explanation\": \"Watts Water is a large, diversified industrial with strong cash flows, investment-grade profile, global operations and solid liquidity; bankruptcy within a year is very unlikely.\"},\n  {\"score\": 60, \"explanation\": \"Clinical-stage Seres (biotech) has substantial cash burn, recent asset sale, contingent liabilities, going-concern doubts and need for additional financing; high probability of distress absent funding or partnership.\"}\n]"
+        }
+      ],
+      "role": "assistant"
+    }
+  ],
+  "parallel_tool_calls": true,
+  "previous_response_id": null,
+  "prompt_cache_key": null,
+  "reasoning": {
+    "effort": "minimal",
+    "summary": null
+  },
+  "safety_identifier": null,
+  "service_tier": "default",
+  "store": true,
+  "temperature": 1.0,
+  "text": {
+    "format": {
+      "type": "text"
+    },
+    "verbosity": "low"
+  },
+  "tool_choice": "auto",
+  "tools": [],
+  "top_logprobs": 0,
+  "top_p": 1.0,
+  "truncation": "disabled",
+  "usage": {
+    "input_tokens": 111338,
+    "input_tokens_details": {
+      "cached_tokens": 0
+    },
+    "output_tokens": 258,
+    "output_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "total_tokens": 111596
+  },
+  "user": null,
+  "metadata": {}
+}
+[11:21:56]   Parsed 5 result(s).
+[11:21:56]   Calling AI for batch 21 with 5 report(s)…
+[11:22:17]   Raw AI response: {
+  "id": "resp_68d266b576a88193ba7db03827674e9808b61583d3b43d9e",
+  "object": "response",
+  "created_at": 1758619317,
+  "status": "completed",
+  "background": false,
+  "billing": {
+    "payer": "openai"
+  },
+  "error": null,
+  "incomplete_details": null,
+  "instructions": null,
+  "max_output_tokens": null,
+  "max_tool_calls": null,
+  "model": "gpt-5-mini-2025-08-07",
+  "output": [
+    {
+      "id": "rs_68d266baa7e48193a9ef6e52d10347a308b61583d3b43d9e",
+      "type": "reasoning",
+      "summary": []
+    },
+    {
+      "id": "msg_68d266bb5db881939b1f93ae2593076f08b61583d3b43d9e",
+      "type": "message",
+      "status": "completed",
+      "content": [
+        {
+          "type": "output_text",
+          "annotations": [],
+          "logprobs": [],
+          "text": "[\n  {\n    \"score\": 5,\n    \"explanation\": \"Large, public industrial technology company with strong balance sheet, diversified segments, recent acquisitions and credit facilities \u2014 low near\u2011term bankruptcy risk.\"\n  },\n  {\n    \"score\": 65,\n    \"explanation\": \"Disclosure of PwC omission and going\u2011concern language, history of net losses, substantial indebtedness and liquidity concerns \u2014 material near\u2011term bankruptcy risk.\"\n  },\n  {\n    \"score\": 8,\n    \"explanation\": \"Regulated utility subsidiary of Xcel Energy with stable customer base, regulated cost recovery and large asset base \u2014 very low bankruptcy risk.\"\n  },\n  {\n    \"score\": 25,\n    \"explanation\": \"Large fintech/consumer finance company (PROG) with concentrated revenue in subprime lease business and regulatory risks but solid market cap and cash \u2014 moderate but not high short\u2011term risk.\"\n  },\n  {\n    \"score\": 10,\n    \"explanation\": \"Zuora is a growing SaaS provider with sizable enterprise customer base and recurring revenue but history of losses; liquidity appears manageable \u2014 low near\u2011term bankruptcy risk.\"\n  }\n]"
+        }
+      ],
+      "role": "assistant"
+    }
+  ],
+  "parallel_tool_calls": true,
+  "previous_response_id": null,
+  "prompt_cache_key": null,
+  "reasoning": {
+    "effort": "minimal",
+    "summary": null
+  },
+  "safety_identifier": null,
+  "service_tier": "default",
+  "store": true,
+  "temperature": 1.0,
+  "text": {
+    "format": {
+      "type": "text"
+    },
+    "verbosity": "low"
+  },
+  "tool_choice": "auto",
+  "tools": [],
+  "top_logprobs": 0,
+  "top_p": 1.0,
+  "truncation": "disabled",
+  "usage": {
+    "input_tokens": 115682,
+    "input_tokens_details": {
+      "cached_tokens": 0
+    },
+    "output_tokens": 246,
+    "output_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "total_tokens": 115928
+  },
+  "user": null,
+  "metadata": {}
+}
+[11:22:17]   Parsed 5 result(s).
+[11:22:17]   Calling AI for batch 22 with 5 report(s)…
+[11:22:36]   Raw AI response: {
+  "id": "resp_68d266ca83d8819488d6eb63472681060c07f37b2b61f672",
+  "object": "response",
+  "created_at": 1758619338,
+  "status": "completed",
+  "background": false,
+  "billing": {
+    "payer": "developer"
+  },
+  "error": null,
+  "incomplete_details": null,
+  "instructions": null,
+  "max_output_tokens": null,
+  "max_tool_calls": null,
+  "model": "gpt-5-mini-2025-08-07",
+  "output": [
+    {
+      "id": "rs_68d266ce217c8194a212f3a23d019e840c07f37b2b61f672",
+      "type": "reasoning",
+      "summary": []
+    },
+    {
+      "id": "msg_68d266cf4598819492dc6665a9cd8db30c07f37b2b61f672",
+      "type": "message",
+      "status": "completed",
+      "content": [
+        {
+          "type": "output_text",
+          "annotations": [],
+          "logprobs": [],
+          "text": "[\n  {\"score\": 5, \"explanation\": \"Large, regulated utility (Xcel) with diversified assets, investment grade credit, ample debt maturities and stable cash flows\u2014bankruptcy in next year very unlikely.\"},\n  {\"score\": 60, \"explanation\": \"Small biotech IPO (Impact BioMedical) with no meaningful revenues, operating losses, limited cash runway despite IPO and high execution/regulatory risk.\"},\n  {\"score\": 8, \"explanation\": \"Established regulated utility (The York Water Company) with stable regulated cash flows, manageable debt and ongoing rate relief\u2014low near\u2011term bankruptcy risk.\"},\n  {\"score\": 6, \"explanation\": \"Large regional bank (Seacoast) with strong deposits, capital, regulatory compliance and diversification; banking-sector stress risk moderate but bankruptcy unlikely within a year.\"},\n  {\"score\": 12, \"explanation\": \"Manufacturing company (Graham) with recent acquisitions, positive adjusted EBITDA and manageable leverage; cyclical risks exist but near\u2011term insolvency unlikely.\"}\n]"
+        }
+      ],
+      "role": "assistant"
+    }
+  ],
+  "parallel_tool_calls": true,
+  "previous_response_id": null,
+  "prompt_cache_key": null,
+  "reasoning": {
+    "effort": "minimal",
+    "summary": null
+  },
+  "safety_identifier": null,
+  "service_tier": "default",
+  "store": true,
+  "temperature": 1.0,
+  "text": {
+    "format": {
+      "type": "text"
+    },
+    "verbosity": "low"
+  },
+  "tool_choice": "auto",
+  "tools": [],
+  "top_logprobs": 0,
+  "top_p": 1.0,
+  "truncation": "disabled",
+  "usage": {
+    "input_tokens": 125051,
+    "input_tokens_details": {
+      "cached_tokens": 0
+    },
+    "output_tokens": 224,
+    "output_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "total_tokens": 125275
+  },
+  "user": null,
+  "metadata": {}
+}
+[11:22:36]   Parsed 5 result(s).
+[11:22:36]   Calling AI for batch 23 with 5 report(s)…
+[11:22:54]   Raw AI response: {
+  "id": "resp_68d266dda6788190a74e2aa2dccfd6f60e8c7a5c08606eb5",
+  "object": "response",
+  "created_at": 1758619357,
+  "status": "completed",
+  "background": false,
+  "billing": {
+    "payer": "developer"
+  },
+  "error": null,
+  "incomplete_details": null,
+  "instructions": null,
+  "max_output_tokens": null,
+  "max_tool_calls": null,
+  "model": "gpt-5-mini-2025-08-07",
+  "output": [
+    {
+      "id": "rs_68d266e0af188190bfec8677e90667060e8c7a5c08606eb5",
+      "type": "reasoning",
+      "summary": []
+    },
+    {
+      "id": "msg_68d266e182e48190beac77a443dabe950e8c7a5c08606eb5",
+      "type": "message",
+      "status": "completed",
+      "content": [
+        {
+          "type": "output_text",
+          "annotations": [],
+          "logprobs": [],
+          "text": "[{\"score\":35,\"explanation\":\"Clinical-stage biotech with no product revenue, small market cap, but positive trial progress, patents, orphan designations and access to capital \u2014 moderate short-term survival risk.\"},{\"score\":5,\"explanation\":\"Regional bank with diversified deposits, improving metrics, positive capital and regulatory compliance \u2014 very low near-term bankruptcy risk.\"},{\"score15,\"explanation\":\"Large digital ad platform with scale, diversified customers, profitable profile and regulatory/market risks (privacy, competition) \u2014 low bankruptcy risk.\"},{\"score60,\"explanation\":\"Workhorse: small EV OEM with ongoing liquidity concerns, frequent reverse splits, reliance on financing, operational/legal risks \u2014 elevated one-year bankruptcy probability.\"},{\"score2,\"explanation\":\"Steel Dynamics: large, diversified, cash-generative industrial with strong margins and scale \u2014 negligible near-term bankruptcy risk.\"}]"
+        }
+      ],
+      "role": "assistant"
+    }
+  ],
+  "parallel_tool_calls": true,
+  "previous_response_id": null,
+  "prompt_cache_key": null,
+  "reasoning": {
+    "effort": "minimal",
+    "summary": null
+  },
+  "safety_identifier": null,
+  "service_tier": "default",
+  "store": true,
+  "temperature": 1.0,
+  "text": {
+    "format": {
+      "type": "text"
+    },
+    "verbosity": "low"
+  },
+  "tool_choice": "auto",
+  "tools": [],
+  "top_logprobs": 0,
+  "top_p": 1.0,
+  "truncation": "disabled",
+  "usage": {
+    "input_tokens": 113921,
+    "input_tokens_details": {
+      "cached_tokens": 0
+    },
+    "output_tokens": 180,
+    "output_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "total_tokens": 114101
+  },
+  "user": null,
+  "metadata": {}
+}
+[11:22:54]   Warning: expected JSON array; falling back to numeric parse.
+[11:22:54]   Parsed 0 result(s) (expected 5).
+[11:22:54]   Calling AI for batch 24 with 5 report(s)…
+[11:23:01]   Raw AI response: {
+  "id": "resp_68d266ef20f08195be12bc1985c737b808d09df4d7b6d580",
+  "object": "response",
+  "created_at": 1758619375,
+  "status": "completed",
+  "background": false,
+  "billing": {
+    "payer": "developer"
+  },
+  "error": null,
+  "incomplete_details": null,
+  "instructions": null,
+  "max_output_tokens": null,
+  "max_tool_calls": null,
+  "model": "gpt-5-mini-2025-08-07",
+  "output": [
+    {
+      "id": "rs_68d266f2575881959f93ac040777bde308d09df4d7b6d580",
+      "type": "reasoning",
+      "summary": []
+    },
+    {
+      "id": "msg_68d266f279808195b0b89ea03efa0d7a08d09df4d7b6d580",
+      "type": "message",
+      "status": "completed",
+      "content": [
+        {
+          "type": "output_text",
+          "annotations": [],
+          "logprobs": [],
+          "text": "[\n  {\"score\": 5, \"explanation\": \"Large, diversified, cash-generative telecom with Tier\u20111 status, sizable market cap and financing arrangements; manageable integration/levered risks from Sprint acquisition.\"},\n  {\"score\": 60, \"explanation\": \"Mid\u2011cap medtech with recurring revenue but volatile share price, recent M&A (pending cash acquisition at low price) and leverage/convertible debt exposure raising near\u2011term execution and financing risk.\"},\n  {\"score\": 85, \"explanation\": \"Microcap development\u2011stage company with no meaningful revenues, recurring operating losses, significant debt disputes and litigation, going\u2011concern and reliance on future financing.\"},\n  {\"score\": 40, \"explanation\": \"Small consumer products/holding LP with limited revenues, customer/regulatory risks, history of financings and legal actions but operating business and distribution reduce immediate insolvency risk.\"},\n  {\"score\": 2, \"explanation\": \"Large, liquid mortgage REIT with diversified Agency RMBS portfolio, established funding/hedging operations and strong market capitalization\u2014bankruptcy within a year is very unlikely.\"}\n]"
+        }
+      ],
+      "role": "assistant"
+    }
+  ],
+  "parallel_tool_calls": true,
+  "previous_response_id": null,
+  "prompt_cache_key": null,
+  "reasoning": {
+    "effort": "minimal",
+    "summary": null
+  },
+  "safety_identifier": null,
+  "service_tier": "default",
+  "store": true,
+  "temperature": 1.0,
+  "text": {
+    "format": {
+      "type": "text"
+    },
+    "verbosity": "low"
+  },
+  "tool_choice": "auto",
+  "tools": [],
+  "top_logprobs": 0,
+  "top_p": 1.0,
+  "truncation": "disabled",
+  "usage": {
+    "input_tokens": 115011,
+    "input_tokens_details": {
+      "cached_tokens": 0
+    },
+    "output_tokens": 241,
+    "output_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "total_tokens": 115252
+  },
+  "user": null,
+  "metadata": {}
+}
+[11:23:01]   Parsed 5 result(s).
+[11:23:01]   Calling AI for batch 25 with 5 report(s)…
+[11:23:12]   Raw AI response: {
+  "id": "resp_68d266f6d8408190a4b8fdb41a65a49709c171052cc177a7",
+  "object": "response",
+  "created_at": 1758619382,
+  "status": "completed",
+  "background": false,
+  "billing": {
+    "payer": "developer"
+  },
+  "error": null,
+  "incomplete_details": null,
+  "instructions": null,
+  "max_output_tokens": null,
+  "max_tool_calls": null,
+  "model": "gpt-5-mini-2025-08-07",
+  "output": [
+    {
+      "id": "rs_68d266fb7198819080f9f2701ad679bd09c171052cc177a7",
+      "type": "reasoning",
+      "summary": []
+    },
+    {
+      "id": "msg_68d266fc1ea88190ab66c716dd58d3fe09c171052cc177a7",
+      "type": "message",
+      "status": "completed",
+      "content": [
+        {
+          "type": "output_text",
+          "annotations": [],
+          "logprobs": [],
+          "text": "[\n  {\"score\": 10, \"explanation\": \"SPAC with large trust balance ($83.8M) and sponsor support; extension payments and sponsor notes reduce near-term liquidation risk.\"},\n  {\"score\": 5, \"explanation\": \"Large regulated utility with diversified assets, stable cash flows and significant debt but investment-grade profile; bankruptcy unlikely within a year.\"},\n  {\"score\": 7, \"explanation\": \"Large REIT (Boston Properties) with extensive portfolio, diversified rents and financing; cyclical risks exist but low near-term bankruptcy risk.\"},\n  {\"score\": 35, \"explanation\": \"Small OTC company undergoing strategic pivot, wartime disruption in Israel, limited revenues and reliance on government grants \u2014 elevated short-term execution and liquidity risk.\"},\n  {\"score\": 12, \"explanation\": \"Small RE investment company with related\u2011party concentration but positive cash flow from receivables and controlling shareholder support; low near-term bankruptcy probability.\"}\n]"
+        }
+      ],
+      "role": "assistant"
+    }
+  ],
+  "parallel_tool_calls": true,
+  "previous_response_id": null,
+  "prompt_cache_key": null,
+  "reasoning": {
+    "effort": "minimal",
+    "summary": null
+  },
+  "safety_identifier": null,
+  "service_tier": "default",
+  "store": true,
+  "temperature": 1.0,
+  "text": {
+    "format": {
+      "type": "text"
+    },
+    "verbosity": "low"
+  },
+  "tool_choice": "auto",
+  "tools": [],
+  "top_logprobs": 0,
+  "top_p": 1.0,
+  "truncation": "disabled",
+  "usage": {
+    "input_tokens": 132666,
+    "input_tokens_details": {
+      "cached_tokens": 0
+    },
+    "output_tokens": 208,
+    "output_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "total_tokens": 132874
+  },
+  "user": null,
+  "metadata": {}
+}
+[11:23:12]   Parsed 5 result(s).
+[11:23:12]   Calling AI for batch 26 with 5 report(s)…
+[11:23:26]   Raw AI response: {
+  "id": "resp_68d267017f708194b76a953ab4e3afc20fc982cf128d90f7",
+  "object": "response",
+  "created_at": 1758619393,
+  "status": "completed",
+  "background": false,
+  "billing": {
+    "payer": "developer"
+  },
+  "error": null,
+  "incomplete_details": null,
+  "instructions": null,
+  "max_output_tokens": null,
+  "max_tool_calls": null,
+  "model": "gpt-5-mini-2025-08-07",
+  "output": [
+    {
+      "id": "rs_68d2670559608194a6f94c98f448a8ca0fc982cf128d90f7",
+      "type": "reasoning",
+      "summary": []
+    },
+    {
+      "id": "msg_68d2670658448194bbfebac2b7e46c130fc982cf128d90f7",
+      "type": "message",
+      "status": "completed",
+      "content": [
+        {
+          "type": "output_text",
+          "annotations": [],
+          "logprobs": [],
+          "text": "[\n  {\"score\":25,\"explanation\":\"Clinical-stage biotech (Ocugen) with multiple advancing programs, recent positive trial data and regulatory progress but high R&D burn, need for additional financing and typical biotech commercial/approval risks.\"},\n  {\"score\":45,\"explanation\":\"Jupiter Neurosciences: small clinical-stage company with limited cash runway, recent $11M offering, early\u2010stage trials, high dependence on grant funding and single product\u2014significant execution and financing risk.\"},\n  {\"score\":5,\"explanation\":\"Grayscale Ethereum Trust ETF (large asset-backed ETF) with substantial assets under management, diversified market exposure and established custodial arrangements\u2014very low near-term bankruptcy risk.\"},\n  {\"score\":1,\"explanation\":\"Alphabet (Google): extremely strong cash flows, market capitalization, diversified businesses and low leverage\u2014negligible bankruptcy risk within a year.\"},\n  {\"score\":30,\"explanation\":\"Comstock Inc.: junior diversified resource/clean-energy group with many development-stage projects, recurring financing-driven transactions, convertible notes and operational risks but ongoing asset sales and financings moderate immediate bankruptcy probability.\"}\n]"
+        }
+      ],
+      "role": "assistant"
+    }
+  ],
+  "parallel_tool_calls": true,
+  "previous_response_id": null,
+  "prompt_cache_key": null,
+  "reasoning": {
+    "effort": "minimal",
+    "summary": null
+  },
+  "safety_identifier": null,
+  "service_tier": "default",
+  "store": true,
+  "temperature": 1.0,
+  "text": {
+    "format": {
+      "type": "text"
+    },
+    "verbosity": "low"
+  },
+  "tool_choice": "auto",
+  "tools": [],
+  "top_logprobs": 0,
+  "top_p": 1.0,
+  "truncation": "disabled",
+  "usage": {
+    "input_tokens": 118065,
+    "input_tokens_details": {
+      "cached_tokens": 0
+    },
+    "output_tokens": 236,
+    "output_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "total_tokens": 118301
+  },
+  "user": null,
+  "metadata": {}
+}
+[11:23:26]   Parsed 5 result(s).
+[11:23:26]   Calling AI for batch 27 with 5 report(s)…
+[11:23:40]   Raw AI response: {
+  "id": "resp_68d2670f759c8193bda4f8ddd20d4cfb02ef6d51e6966599",
+  "object": "response",
+  "created_at": 1758619407,
+  "status": "completed",
+  "background": false,
+  "billing": {
+    "payer": "developer"
+  },
+  "error": null,
+  "incomplete_details": null,
+  "instructions": null,
+  "max_output_tokens": null,
+  "max_tool_calls": null,
+  "model": "gpt-5-mini-2025-08-07",
+  "output": [
+    {
+      "id": "rs_68d26714fe548193a8a31e3e80a6e93d02ef6d51e6966599",
+      "type": "reasoning",
+      "summary": []
+    },
+    {
+      "id": "msg_68d26715e79081939a114722b2aa96f902ef6d51e6966599",
+      "type": "message",
+      "status": "completed",
+      "content": [
+        {
+          "type": "output_text",
+          "annotations": [],
+          "logprobs": [],
+          "text": "[\n  {\"score\": 5, \"explanation\": \"Large regulated utility (Southern Company) with diversified regulated subsidiaries, stable cash flows and long-dated debt \u2014 bankruptcy very unlikely.\"},\n  {\"score\": 65, \"explanation\": \"Small media/tech SPAC successor with high cash burn, limited revenues, legal/litigation risks and dependency on equity financings despite large cash at year-end \u2014 material near\u2011term bankruptcy risk.\"},\n  {\"score\": 40, \"explanation\": \"Development\u2011stage biotech with limited revenue, recurring losses, small market cap and reliance on financing and milestone payments \u2014 moderate short\u2011term bankruptcy risk.\"},\n  {\"score\": 30, \"explanation\": \"Small controlled\u2011environment agriculture company with operating losses, customer concentration and going\u2011concern uncertainty but ongoing operations and some assets \u2014 elevated but not immediate risk.\"},\n  {\"score\": 2, \"explanation\": \"Large diversified regional bank holding company (Wintrust) with ~$65B assets, diversified businesses and regulatory oversight \u2014 bankruptcy extremely unlikely.\"}\n]"
+        }
+      ],
+      "role": "assistant"
+    }
+  ],
+  "parallel_tool_calls": true,
+  "previous_response_id": null,
+  "prompt_cache_key": null,
+  "reasoning": {
+    "effort": "minimal",
+    "summary": null
+  },
+  "safety_identifier": null,
+  "service_tier": "default",
+  "store": true,
+  "temperature": 1.0,
+  "text": {
+    "format": {
+      "type": "text"
+    },
+    "verbosity": "low"
+  },
+  "tool_choice": "auto",
+  "tools": [],
+  "top_logprobs": 0,
+  "top_p": 1.0,
+  "truncation": "disabled",
+  "usage": {
+    "input_tokens": 128223,
+    "input_tokens_details": {
+      "cached_tokens": 0
+    },
+    "output_tokens": 224,
+    "output_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "total_tokens": 128447
+  },
+  "user": null,
+  "metadata": {}
+}
+[11:23:40]   Parsed 5 result(s).
+[11:23:40]   Calling AI for batch 28 with 5 report(s)…
+[11:23:55]   Raw AI response: {
+  "id": "resp_68d2671e303081959ccc53dfb9273e360853c8b43e4fa246",
+  "object": "response",
+  "created_at": 1758619422,
+  "status": "completed",
+  "background": false,
+  "billing": {
+    "payer": "developer"
+  },
+  "error": null,
+  "incomplete_details": null,
+  "instructions": null,
+  "max_output_tokens": null,
+  "max_tool_calls": null,
+  "model": "gpt-5-mini-2025-08-07",
+  "output": [
+    {
+      "id": "rs_68d267239c9881959b2f2998171ec3b80853c8b43e4fa246",
+      "type": "reasoning",
+      "summary": []
+    },
+    {
+      "id": "msg_68d26724758c8195ab4d54ad65acddf00853c8b43e4fa246",
+      "type": "message",
+      "status": "completed",
+      "content": [
+        {
+          "type": "output_text",
+          "annotations": [],
+          "logprobs": [],
+          "text": "[{\"score\":6,\"explanation\":\"Arcus (biotech) \u2014 large collaboration funding, $825M market cap mid-2024, diversified pipeline and Gilead partnership; clinical risk remains but near-term bankruptcy unlikely.\"},{\"score\":35,\"explanation\":\"Precigen \u2014 small-cap clinical-stage biotech with operating losses, recent governance amendments and CEO pay/recapture policies; drug/regulatory and financing risk elevated but not imminent insolvency.\"},{\"score\":70,\"explanation\":\"AltEnergy Acquisition (SPAC) \u2014 minimal operations, repeated extension votes, material redemptions, delisting from Nasdaq and dependency on completing a complex merger/financing; high near-term liquidation risk.\"},{\"score\":40,\"explanation\":\"Plug Power \u2014 large hydrogen company with substantial revenues but heavy capital projects, volatile stock/options, operational and regulatory risks; liquidity and execution risk elevated but bankruptcy not highly likely within a year.\"},{\"score\":4,\"explanation\":\"Stepan Company \u2014 diversified specialty chemicals company, stable operations, strong disclosure and NYSE listing; low near-term bankruptcy risk.\"}]"
+        }
+      ],
+      "role": "assistant"
+    }
+  ],
+  "parallel_tool_calls": true,
+  "previous_response_id": null,
+  "prompt_cache_key": null,
+  "reasoning": {
+    "effort": "minimal",
+    "summary": null
+  },
+  "safety_identifier": null,
+  "service_tier": "default",
+  "store": true,
+  "temperature": 1.0,
+  "text": {
+    "format": {
+      "type": "text"
+    },
+    "verbosity": "low"
+  },
+  "tool_choice": "auto",
+  "tools": [],
+  "top_logprobs": 0,
+  "top_p": 1.0,
+  "truncation": "disabled",
+  "usage": {
+    "input_tokens": 111927,
+    "input_tokens_details": {
+      "cached_tokens": 0
+    },
+    "output_tokens": 225,
+    "output_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "total_tokens": 112152
+  },
+  "user": null,
+  "metadata": {}
+}
+[11:23:55]   Parsed 5 result(s).
+[11:23:55]   Calling AI for batch 29 with 5 report(s)…
+[11:24:03]   Raw AI response: {
+  "id": "resp_68d2672bdcf48193ac1eaefd696791fc069c7ad2d956cb82",
+  "object": "response",
+  "created_at": 1758619435,
+  "status": "completed",
+  "background": false,
+  "billing": {
+    "payer": "developer"
+  },
+  "error": null,
+  "incomplete_details": null,
+  "instructions": null,
+  "max_output_tokens": null,
+  "max_tool_calls": null,
+  "model": "gpt-5-mini-2025-08-07",
+  "output": [
+    {
+      "id": "rs_68d2672f591c8193a15a39c74aa79f91069c7ad2d956cb82",
+      "type": "reasoning",
+      "summary": []
+    },
+    {
+      "id": "msg_68d2672f91b48193be9d6a597689b97a069c7ad2d956cb82",
+      "type": "message",
+      "status": "completed",
+      "content": [
+        {
+          "type": "output_text",
+          "annotations": [],
+          "logprobs": [],
+          "text": "[{\"score\":5,\"explanation\":\"Stable small-cap manufacturer with positive working capital, manageable debt, profitable modular segment and bank covenant compliance; main risk is cyclical ag demand but low near-term bankruptcy risk.\"},{\"score\":40,\"explanation\":\"Microcap clinical-stage pharma with governance/filing lapses, heavy reliance on key executives and product development, limited revenues and need for financing; moderate near-term distress risk.\"},{\"score\":1,\"explanation\":\"Large, diversified global MedTech leader (Medtronic) with strong balance sheet, cash flows, and market position; negligible bankruptcy probability within a year.\"},{\"score\":15,\"explanation\":\"Small industrial tech firm with positive backlog, manageable debt, niche market exposure and modest working capital; risks from customer concentration and project timing but low near-term bankruptcy risk.\"},{\"score\":60,\"explanation\":\"Mallinckrodt emerged from multiple bankruptcies, carries heavy legacy liabilities, complex restructuring, litigation and refinancing risks despite asset sales; significant near-term bankruptcy/default risk remains.\"}]"
+        }
+      ],
+      "role": "assistant"
+    }
+  ],
+  "parallel_tool_calls": true,
+  "previous_response_id": null,
+  "prompt_cache_key": null,
+  "reasoning": {
+    "effort": "minimal",
+    "summary": null
+  },
+  "safety_identifier": null,
+  "service_tier": "default",
+  "store": true,
+  "temperature": 1.0,
+  "text": {
+    "format": {
+      "type": "text"
+    },
+    "verbosity": "low"
+  },
+  "tool_choice": "auto",
+  "tools": [],
+  "top_logprobs": 0,
+  "top_p": 1.0,
+  "truncation": "disabled",
+  "usage": {
+    "input_tokens": 122926,
+    "input_tokens_details": {
+      "cached_tokens": 0
+    },
+    "output_tokens": 216,
+    "output_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "total_tokens": 123142
+  },
+  "user": null,
+  "metadata": {}
+}
+[11:24:03]   Parsed 5 result(s).
+[11:24:03]   Calling AI for batch 30 with 5 report(s)…
+[11:24:20]   Raw AI response: {
+  "id": "resp_68d2673478b88196a1ceba2ad5ce9da40deac9855179d3fd",
+  "object": "response",
+  "created_at": 1758619444,
+  "status": "completed",
+  "background": false,
+  "billing": {
+    "payer": "developer"
+  },
+  "error": null,
+  "incomplete_details": null,
+  "instructions": null,
+  "max_output_tokens": null,
+  "max_tool_calls": null,
+  "model": "gpt-5-mini-2025-08-07",
+  "output": [
+    {
+      "id": "rs_68d2673d40cc8196ba3129a7123fbf9e0deac9855179d3fd",
+      "type": "reasoning",
+      "summary": []
+    },
+    {
+      "id": "msg_68d2673e07a081969dca2447114660bf0deac9855179d3fd",
+      "type": "message",
+      "status": "completed",
+      "content": [
+        {
+          "type": "output_text",
+          "annotations": [],
+          "logprobs": [],
+          "text": "[\n  {\n    \"score\": 65,\n    \"explanation\": \"Substantial doubt noted by auditors, minimal cash ($156k at 12/31/24), recurring operating losses, need to raise capital and integration risk from acquisition \u2014 high near-term liquidity risk.\"\n  },\n  {\n    \"score\": 8,\n    \"explanation\": \"Large, diversified, profitable logistics company (XPO) with strong cash flow generation, scale and access to capital \u2014 bankruptcy within a year is unlikely.\"\n  },\n  {\n    \"score\": 30,\n    \"explanation\": \"Small public healthcare services provider with customer concentration (3 clients ~43%), limited scale, key-person risk and recent client loss; moderate liquidity and concentration risks.\"\n  },\n  {\n    \"score\": 12,\n    \"explanation\": \"NASDAQ-listed fintech (Open Lending) with scale, recurring revenue and diversified lender/insurer ecosystem though exposed to underwriting/model and regulatory risks \u2014 short-term bankruptcy unlikely.\"\n  },\n  {\n    \"score\": 55,\n    \"explanation\": \"SPAC with no operating business, limited operating history, finite timeframe to complete business combination and material reliance on trust funds and sponsor support \u2014 high execution/liquidity risk.\"\n  }\n]"
+        }
+      ],
+      "role": "assistant"
+    }
+  ],
+  "parallel_tool_calls": true,
+  "previous_response_id": null,
+  "prompt_cache_key": null,
+  "reasoning": {
+    "effort": "minimal",
+    "summary": null
+  },
+  "safety_identifier": null,
+  "service_tier": "default",
+  "store": true,
+  "temperature": 1.0,
+  "text": {
+    "format": {
+      "type": "text"
+    },
+    "verbosity": "low"
+  },
+  "tool_choice": "auto",
+  "tools": [],
+  "top_logprobs": 0,
+  "top_p": 1.0,
+  "truncation": "disabled",
+  "usage": {
+    "input_tokens": 103788,
+    "input_tokens_details": {
+      "cached_tokens": 0
+    },
+    "output_tokens": 261,
+    "output_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "total_tokens": 104049
+  },
+  "user": null,
+  "metadata": {}
+}
+[11:24:20]   Parsed 5 result(s).
+[11:24:20]   Calling AI for batch 31 with 5 report(s)…
+[11:24:36]   Raw AI response: {
+  "id": "resp_68d2674578148196848713884d9a8b9e0167209c66dd8f7c",
+  "object": "response",
+  "created_at": 1758619461,
+  "status": "completed",
+  "background": false,
+  "billing": {
+    "payer": "developer"
+  },
+  "error": null,
+  "incomplete_details": null,
+  "instructions": null,
+  "max_output_tokens": null,
+  "max_tool_calls": null,
+  "model": "gpt-5-mini-2025-08-07",
+  "output": [
+    {
+      "id": "rs_68d2674fde548196a7391f9daf4370280167209c66dd8f7c",
+      "type": "reasoning",
+      "summary": []
+    },
+    {
+      "id": "msg_68d267503a78819698a58ae4bb9a06230167209c66dd8f7c",
+      "type": "message",
+      "status": "completed",
+      "content": [
+        {
+          "type": "output_text",
+          "annotations": [],
+          "logprobs": [],
+          "text": "[\n  {\"score\": 2, \"explanation\": \"Large, well-established REIT (Public Storage) with diversified cash flows, strong market cap and scale; low near-term default risk.\"},\n  {\"score\": 3, \"explanation\": \"Constellation Brands is a large, profitable CPG with strong brands, healthy revenues and access to capital; bankruptcy unlikely within a year.\"},\n  {\"score\": 40, \"explanation\": \"Hubilu Venture Corp is a microcap with limited cash ($9.8k), negative working capital, small revenues and reliance on shareholder loans\u2014meaningful near-term going-concern risk.\"},\n  {\"score\": 6, \"explanation\": \"State Investment Group/insurer-like filing shows large asset base and diversified investment portfolio; limited near-term bankruptcy risk.\"},\n  {\"score\": 25, \"explanation\": \"Vycor Medical is small medical device company with recurring losses, working capital deficit (~$3.8M), reliance on related-party support and debt maturing 2025\u2014elevated but not imminent bankruptcy risk.\"}\n]"
+        }
+      ],
+      "role": "assistant"
+    }
+  ],
+  "parallel_tool_calls": true,
+  "previous_response_id": null,
+  "prompt_cache_key": null,
+  "reasoning": {
+    "effort": "minimal",
+    "summary": null
+  },
+  "safety_identifier": null,
+  "service_tier": "default",
+  "store": true,
+  "temperature": 1.0,
+  "text": {
+    "format": {
+      "type": "text"
+    },
+    "verbosity": "low"
+  },
+  "tool_choice": "auto",
+  "tools": [],
+  "top_logprobs": 0,
+  "top_p": 1.0,
+  "truncation": "disabled",
+  "usage": {
+    "input_tokens": 130167,
+    "input_tokens_details": {
+      "cached_tokens": 0
+    },
+    "output_tokens": 232,
+    "output_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "total_tokens": 130399
+  },
+  "user": null,
+  "metadata": {}
+}
+[11:24:36]   Parsed 5 result(s).
+[11:24:36]   Calling AI for batch 32 with 5 report(s)…
+[11:24:51]   Raw AI response: {
+  "id": "resp_68d2675583a4819483da1be5fa178d4a0756ab80d6f0c58e",
+  "object": "response",
+  "created_at": 1758619477,
+  "status": "completed",
+  "background": false,
+  "billing": {
+    "payer": "developer"
+  },
+  "error": null,
+  "incomplete_details": null,
+  "instructions": null,
+  "max_output_tokens": null,
+  "max_tool_calls": null,
+  "model": "gpt-5-mini-2025-08-07",
+  "output": [
+    {
+      "id": "rs_68d2675e8e34819489175a3d7e553d010756ab80d6f0c58e",
+      "type": "reasoning",
+      "summary": []
+    },
+    {
+      "id": "msg_68d2675ec0088194ad2a8fde37db4ce00756ab80d6f0c58e",
+      "type": "message",
+      "status": "completed",
+      "content": [
+        {
+          "type": "output_text",
+          "annotations": [],
+          "logprobs": [],
+          "text": "[\n  {\"score\": 5, \"explanation\": \"Well-capitalized regional bank with $2.1B assets, $168M equity, modest loan growth, stable ACL; main risks are concentration in Ohio and loan credit trends but capital/liquidity appear adequate.\"},\n  {\"score\": 10, \"explanation\": \"Large diversified casino/resort operator (Las Vegas Sands) with strong cash flows, global scale and sizeable market cap; regulatory and regional risks exist but bankruptcy within a year is unlikely.\"},\n  {\"score\": 3, \"explanation\": \"Large, profitable global consumer staples company (Est\u00e9e Lauder) with strong brands, scale and cash generation; negligible near-term bankruptcy risk.\"},\n  {\"score\": 60, \"explanation\": \"Clinical-stage biotech (Galecto) with ongoing losses, going-concern explanatory paragraph, substantial cash burn and need for additional funding\u2014high risk of insolvency within a year if financing fails.\"},\n  {\"score\": 15, \"explanation\": \"Mortgage/financial services firm (NewRez) with large asset base and complex funding; exposure to credit/market and liquidity risks but diversified funding and scale reduce near-term bankruptcy probability.\"}\n]"
+        }
+      ],
+      "role": "assistant"
+    }
+  ],
+  "parallel_tool_calls": true,
+  "previous_response_id": null,
+  "prompt_cache_key": null,
+  "reasoning": {
+    "effort": "minimal",
+    "summary": null
+  },
+  "safety_identifier": null,
+  "service_tier": "default",
+  "store": true,
+  "temperature": 1.0,
+  "text": {
+    "format": {
+      "type": "text"
+    },
+    "verbosity": "low"
+  },
+  "tool_choice": "auto",
+  "tools": [],
+  "top_logprobs": 0,
+  "top_p": 1.0,
+  "truncation": "disabled",
+  "usage": {
+    "input_tokens": 134884,
+    "input_tokens_details": {
+      "cached_tokens": 0
+    },
+    "output_tokens": 255,
+    "output_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "total_tokens": 135139
+  },
+  "user": null,
+  "metadata": {}
+}
+[11:24:51]   Parsed 5 result(s).
+[11:24:51]   Calling AI for batch 33 with 5 report(s)…
+[11:25:02]   Raw AI response: {
+  "id": "resp_68d26764e3188196a2d9d6b8e633ef0a08496850c255eb0a",
+  "object": "response",
+  "created_at": 1758619492,
+  "status": "completed",
+  "background": false,
+  "billing": {
+    "payer": "developer"
+  },
+  "error": null,
+  "incomplete_details": null,
+  "instructions": null,
+  "max_output_tokens": null,
+  "max_tool_calls": null,
+  "model": "gpt-5-mini-2025-08-07",
+  "output": [
+    {
+      "id": "rs_68d26767923481969b45ec25cb92fb6808496850c255eb0a",
+      "type": "reasoning",
+      "summary": []
+    },
+    {
+      "id": "msg_68d26767d1ac8196a60e8289f6bd6c1008496850c255eb0a",
+      "type": "message",
+      "status": "completed",
+      "content": [
+        {
+          "type": "output_text",
+          "annotations": [],
+          "logprobs": [],
+          "text": "[{\"score\":35,\"explanation\":\"Trio Petroleum (small E&P) \u2014 early-stage production, modest revenues, heavy permitting and development risk but recent drilling/production and multiple financings reduce near-term insolvency risk.\"},{\"score\":18,\"explanation\":\"Delek Logistics (DKL) \u2014 established midstream MLP with diversified assets, long-term contracts (many with Delek Holdings), sizable market cap and liquidity; leverage and commodity exposure present moderate risk.\"},{\"score\":30,\"explanation\":\"TeraWulf (WULF) \u2014 capital-intensive crypto/energy operator with amended filings; sector volatility and regulatory/energy price risks raise near-term stress but large market cap and access to capital lower immediate bankruptcy probability.\"},{\"score\":8,\"explanation\":\"Cheniere Energy Partners (CQP) \u2014 large, investment-grade LNG midstream with long-term contracts, substantial assets and cash flows; leverage and project financing needs exist but bankruptcy within a year is unlikely.\"},{\"score\":22,\"explanation\":\"Lisata Therapeutics (LSTA) \u2014 clinical-stage biotech with no commercial revenue, limited market cap and dependency on R&D funding; typical biotech financing risk raises short-term bankruptcy probability but ongoing trials and partnerships mitigate some downside.\"}]"
+        }
+      ],
+      "role": "assistant"
+    }
+  ],
+  "parallel_tool_calls": true,
+  "previous_response_id": null,
+  "prompt_cache_key": null,
+  "reasoning": {
+    "effort": "minimal",
+    "summary": null
+  },
+  "safety_identifier": null,
+  "service_tier": "default",
+  "store": true,
+  "temperature": 1.0,
+  "text": {
+    "format": {
+      "type": "text"
+    },
+    "verbosity": "low"
+  },
+  "tool_choice": "auto",
+  "tools": [],
+  "top_logprobs": 0,
+  "top_p": 1.0,
+  "truncation": "disabled",
+  "usage": {
+    "input_tokens": 103755,
+    "input_tokens_details": {
+      "cached_tokens": 0
+    },
+    "output_tokens": 258,
+    "output_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "total_tokens": 104013
+  },
+  "user": null,
+  "metadata": {}
+}
+[11:25:02]   Parsed 5 result(s).
+[11:25:02]   Calling AI for batch 34 with 5 report(s)…
+[11:25:18]   Raw AI response: {
+  "id": "resp_68d267704bf88190a67301d9b1787c6c0c48db0ccd8fd533",
+  "object": "response",
+  "created_at": 1758619504,
+  "status": "completed",
+  "background": false,
+  "billing": {
+    "payer": "developer"
+  },
+  "error": null,
+  "incomplete_details": null,
+  "instructions": null,
+  "max_output_tokens": null,
+  "max_tool_calls": null,
+  "model": "gpt-5-mini-2025-08-07",
+  "output": [
+    {
+      "id": "rs_68d267798f0c81908b9fe00cbe644f2a0c48db0ccd8fd533",
+      "type": "reasoning",
+      "summary": []
+    },
+    {
+      "id": "msg_68d2677a3fac8190a3c2d3918edfb2340c48db0ccd8fd533",
+      "type": "message",
+      "status": "completed",
+      "content": [
+        {
+          "type": "output_text",
+          "annotations": [],
+          "logprobs": [],
+          "text": "[{\"score\":65,\"explanation\":\"Report 1 (Phoenix Motor Inc.): High near-term bankruptcy risk due to auditor going-concern opinion, negative operating cash flows, history of losses, dependency on additional capital and suspended Nasdaq listing.\"},{\"score\":20,\"explanation\":\"Report 2 (New Mountain Finance/NMFC): Low bankruptcy risk for the fund/manager; diversified portfolio and credit facilities but exposure to credit/liquidity and stressed/ non-accrual investments increases downside risk.\"},{\"score\":5,\"explanation\":\"Report 3 (Interpublic Group - IPG): Very low bankruptcy risk; large diversified global advertising holding with strong liquidity and pending Omnicom merger (scale) though merger execution risk exists.\"},{\"score\":18,\"explanation\":\"Report 4 (Stoke Therapeutics): Moderate-low risk; clinical-stage biotech with promising Phase 3 plans and partnership (Biogen) but reliant on trial success, significant cash burn and need for regulatory/commercial execution.\"},{\"score\":10,\"explanation\":\"Report 5 (Magnolia Oil & Gas): Low bankruptcy risk; cash-generative E&P with sizable reserves, conservative leverage focus and access to credit, but exposed to commodity price and regulatory volatility.\"}]"
+        }
+      ],
+      "role": "assistant"
+    }
+  ],
+  "parallel_tool_calls": true,
+  "previous_response_id": null,
+  "prompt_cache_key": null,
+  "reasoning": {
+    "effort": "minimal",
+    "summary": null
+  },
+  "safety_identifier": null,
+  "service_tier": "default",
+  "store": true,
+  "temperature": 1.0,
+  "text": {
+    "format": {
+      "type": "text"
+    },
+    "verbosity": "low"
+  },
+  "tool_choice": "auto",
+  "tools": [],
+  "top_logprobs": 0,
+  "top_p": 1.0,
+  "truncation": "disabled",
+  "usage": {
+    "input_tokens": 120219,
+    "input_tokens_details": {
+      "cached_tokens": 0
+    },
+    "output_tokens": 255,
+    "output_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "total_tokens": 120474
+  },
+  "user": null,
+  "metadata": {}
+}
+[11:25:18]   Parsed 5 result(s).
+[11:25:18]   Calling AI for batch 35 with 5 report(s)…
+[11:25:35]   Raw AI response: {
+  "id": "resp_68d26780453c81939b006f1ed595ef6f0c4f34681d75576e",
+  "object": "response",
+  "created_at": 1758619520,
+  "status": "completed",
+  "background": false,
+  "billing": {
+    "payer": "developer"
+  },
+  "error": null,
+  "incomplete_details": null,
+  "instructions": null,
+  "max_output_tokens": null,
+  "max_tool_calls": null,
+  "model": "gpt-5-mini-2025-08-07",
+  "output": [
+    {
+      "id": "rs_68d2678a0380819391f078e486dba5150c4f34681d75576e",
+      "type": "reasoning",
+      "summary": []
+    },
+    {
+      "id": "msg_68d2678abd508193833ca4b280d643890c4f34681d75576e",
+      "type": "message",
+      "status": "completed",
+      "content": [
+        {
+          "type": "output_text",
+          "annotations": [],
+          "logprobs": [],
+          "text": "[\n  {\"score\": 3, \"explanation\": \"Large, diversified, profitable insurance/investment group with strong equity, positive cash flow, low debt-to-capital (20%) and consistent operating income; bankruptcy risk extremely low.\"},\n  {\"score\": 18, \"explanation\": \"Mission Produce: profitable but high customer concentration (top 10 = ~69%), agricultural/seasonal risks, international/regulatory exposure and covenant risks; moderate short-term liquidity risk.\"},\n  {\"score\": 6, \"explanation\": \"AAON: profitable, large backlog ($842M), strong market position, manageable leverage and healthy cash generation; low near-term bankruptcy risk.\"},\n  {\"score\": 72, \"explanation\": \"CannapharmaRx: small OTC issuer, history of losses, working capital deficit, $2k cash, negative operating cash flow and urgent need for financing \u2014 high near-term bankruptcy risk.\"},\n  {\"score\": 12, \"explanation\": \"Great Elm Capital: diversified credit/investment portfolio with sizable assets; exposure to credit/default risk but investment manager scale and funding alleviate immediate bankruptcy likelihood.\"}\n]"
+        }
+      ],
+      "role": "assistant"
+    }
+  ],
+  "parallel_tool_calls": true,
+  "previous_response_id": null,
+  "prompt_cache_key": null,
+  "reasoning": {
+    "effort": "minimal",
+    "summary": null
+  },
+  "safety_identifier": null,
+  "service_tier": "default",
+  "store": true,
+  "temperature": 1.0,
+  "text": {
+    "format": {
+      "type": "text"
+    },
+    "verbosity": "low"
+  },
+  "tool_choice": "auto",
+  "tools": [],
+  "top_logprobs": 0,
+  "top_p": 1.0,
+  "truncation": "disabled",
+  "usage": {
+    "input_tokens": 121863,
+    "input_tokens_details": {
+      "cached_tokens": 0
+    },
+    "output_tokens": 241,
+    "output_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "total_tokens": 122104
+  },
+  "user": null,
+  "metadata": {}
+}
+[11:25:35]   Parsed 5 result(s).
+[11:25:35]   Calling AI for batch 36 with 5 report(s)…
+[11:25:47]   Raw AI response: {
+  "id": "resp_68d26790e57481968c891ffed0fdb4f90865e98445445700",
+  "object": "response",
+  "created_at": 1758619536,
+  "status": "completed",
+  "background": false,
+  "billing": {
+    "payer": "developer"
+  },
+  "error": null,
+  "incomplete_details": null,
+  "instructions": null,
+  "max_output_tokens": null,
+  "max_tool_calls": null,
+  "model": "gpt-5-mini-2025-08-07",
+  "output": [
+    {
+      "id": "rs_68d26794ff04819685a8c5fa58a3aa750865e98445445700",
+      "type": "reasoning",
+      "summary": []
+    },
+    {
+      "id": "msg_68d26795bdec8196ae9fef9535c0db040865e98445445700",
+      "type": "message",
+      "status": "completed",
+      "content": [
+        {
+          "type": "output_text",
+          "annotations": [],
+          "logprobs": [],
+          "text": "[\n  {\"score\":6,\"explanation\":\"Large, established public travel technology company (Sabre) with substantial revenues, diversified customers and completed cost reductions; leverage and industry sensitivity to travel volumes are risks but bankruptcy within a year is unlikely.\"},\n  {\"score\":18,\"explanation\":\"HCI Group is an insurance-focused company concentrated in Florida with significant growth from policy assumptions; catastrophe, reinsurance and regulatory risks raise near-term stress but strong premiums, cash and equity reduce near-term bankruptcy probability.\"},\n  {\"score\":40,\"explanation\":\"AleAnna is a development-stage energy company with no material operating cash flow, significant capital needs, project, permitting and country risks (Italy); production recently commenced but dependency on financing and execution raises substantial near-term default risk.\"},\n  {\"score\":3,\"explanation\":\"Brink\u2019s is a large, global, cash-and-value logistics company with stable cash flows, diversified operations, strong market position and manageable leverage; bankruptcy within a year is very unlikely.\"},\n  {\"score\":12,\"explanation\":\"National Vision is an established retail optics company with recurring demand, scalable lab/distribution network and manageable seasonality; execution risks, Walmart termination and debt add pressure but near-term bankruptcy risk is low.\"}\n]"
+        }
+      ],
+      "role": "assistant"
+    }
+  ],
+  "parallel_tool_calls": true,
+  "previous_response_id": null,
+  "prompt_cache_key": null,
+  "reasoning": {
+    "effort": "minimal",
+    "summary": null
+  },
+  "safety_identifier": null,
+  "service_tier": "default",
+  "store": true,
+  "temperature": 1.0,
+  "text": {
+    "format": {
+      "type": "text"
+    },
+    "verbosity": "low"
+  },
+  "tool_choice": "auto",
+  "tools": [],
+  "top_logprobs": 0,
+  "top_p": 1.0,
+  "truncation": "disabled",
+  "usage": {
+    "input_tokens": 123010,
+    "input_tokens_details": {
+      "cached_tokens": 0
+    },
+    "output_tokens": 259,
+    "output_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "total_tokens": 123269
+  },
+  "user": null,
+  "metadata": {}
+}
+[11:25:47]   Parsed 5 result(s).
+[11:25:47]   Calling AI for batch 37 with 5 report(s)…
+[11:26:03]   Raw AI response: {
+  "id": "resp_68d2679c723081939c23211bab21392b042dc5b7855c354a",
+  "object": "response",
+  "created_at": 1758619548,
+  "status": "completed",
+  "background": false,
+  "billing": {
+    "payer": "developer"
+  },
+  "error": null,
+  "incomplete_details": null,
+  "instructions": null,
+  "max_output_tokens": null,
+  "max_tool_calls": null,
+  "model": "gpt-5-mini-2025-08-07",
+  "output": [
+    {
+      "id": "rs_68d267a5f5b48193909edb2a58d815bf042dc5b7855c354a",
+      "type": "reasoning",
+      "summary": []
+    },
+    {
+      "id": "msg_68d267a637c081939e80f5ed1291516f042dc5b7855c354a",
+      "type": "message",
+      "status": "completed",
+      "content": [
+        {
+          "type": "output_text",
+          "annotations": [],
+          "logprobs": [],
+          "text": "[\n  {\"score\": 25, \"explanation\": \"Early\u2011stage eVTOL developer with large cash burn, history of losses and certification/manufacturing risks but ~$1.1B market cap and recent facility/partnerships reduce near\u2011term insolvency probability.\"},\n  {\"score\": 85, \"explanation\": \"Microcap with $413 cash, working capital deficit ~$2.33M, recurring losses, reliance on related\u2011party financing and substantial doubt about going concern\u2014high near\u2011term bankruptcy risk.\"},\n  {\"score\": 15, \"explanation\": \"Blank\u2011check SPAC with substantial trust cash, approved merger with PIPE/SAFE commitments and sponsor support\u2014low short\u2011term bankruptcy risk absent deal failure.\"},\n  {\"score\": 5, \"explanation\": \"Established NYSE\u2011listed fintech (Paymentus) with diversified revenue, strong scale and profitability trajectory; low near\u2011term bankruptcy likelihood.\"},\n  {\"score\": 10, \"explanation\": \"Large regulated utility (Entergy) with complex regulatory assets/liabilities and storm exposures but stable regulated cash flows and access to financing, making near\u2011term bankruptcy unlikely.\"}\n]"
+        }
+      ],
+      "role": "assistant"
+    }
+  ],
+  "parallel_tool_calls": true,
+  "previous_response_id": null,
+  "prompt_cache_key": null,
+  "reasoning": {
+    "effort": "minimal",
+    "summary": null
+  },
+  "safety_identifier": null,
+  "service_tier": "default",
+  "store": true,
+  "temperature": 1.0,
+  "text": {
+    "format": {
+      "type": "text"
+    },
+    "verbosity": "low"
+  },
+  "tool_choice": "auto",
+  "tools": [],
+  "top_logprobs": 0,
+  "top_p": 1.0,
+  "truncation": "disabled",
+  "usage": {
+    "input_tokens": 120131,
+    "input_tokens_details": {
+      "cached_tokens": 0
+    },
+    "output_tokens": 247,
+    "output_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "total_tokens": 120378
+  },
+  "user": null,
+  "metadata": {}
+}
+[11:26:03]   Parsed 5 result(s).
+[11:26:03]   Calling AI for batch 38 with 5 report(s)…
+[11:26:16]   Raw AI response: {
+  "id": "resp_68d267abbf34819498360d707ec2f07d0130592d99cd4b8f",
+  "object": "response",
+  "created_at": 1758619563,
+  "status": "completed",
+  "background": false,
+  "billing": {
+    "payer": "developer"
+  },
+  "error": null,
+  "incomplete_details": null,
+  "instructions": null,
+  "max_output_tokens": null,
+  "max_tool_calls": null,
+  "model": "gpt-5-mini-2025-08-07",
+  "output": [
+    {
+      "id": "rs_68d267b40f088194b18997ee26a98b940130592d99cd4b8f",
+      "type": "reasoning",
+      "summary": []
+    },
+    {
+      "id": "msg_68d267b469bc8194884846f1952c48bf0130592d99cd4b8f",
+      "type": "message",
+      "status": "completed",
+      "content": [
+        {
+          "type": "output_text",
+          "annotations": [],
+          "logprobs": [],
+          "text": "[\n  {\"score\": 55, \"explanation\": \"Small OTC food distributor with recurring losses, going-concern note, customer/supplier concentration and reliance on related-party manufacturing\u2014moderate near-term bankruptcy risk.\"},\n  {\"score\": 8, \"explanation\": \"Large, well-capitalized NYSE drybulk shipowner with strong liquidity ($381m) low net debt and diversified fleet\u2014very low 1-year bankruptcy risk.\"},\n  {\"score\": 35, \"explanation\": \"Mid-size media/content company with recurring losses, reliance on third-party production, equity financings and internal control weaknesses\u2014elevated but survivable short-term risk.\"},\n  {\"score\": 12, \"explanation\": \"Clinical-stage biopharma with promising asset (rademikibart), significant development costs and dependency on continued funding but typical biotech profile\u2014low near-term bankruptcy risk if financing available.\"},\n  {\"score\": 45, \"explanation\": \"Consumer CPG consolidator with multiple acquisitions, reliance on related-party manufacturers, history of goodwill impairments and recurring losses\u2014material going-concern risk but not imminent.\"}\n]"
+        }
+      ],
+      "role": "assistant"
+    }
+  ],
+  "parallel_tool_calls": true,
+  "previous_response_id": null,
+  "prompt_cache_key": null,
+  "reasoning": {
+    "effort": "minimal",
+    "summary": null
+  },
+  "safety_identifier": null,
+  "service_tier": "default",
+  "store": true,
+  "temperature": 1.0,
+  "text": {
+    "format": {
+      "type": "text"
+    },
+    "verbosity": "low"
+  },
+  "tool_choice": "auto",
+  "tools": [],
+  "top_logprobs": 0,
+  "top_p": 1.0,
+  "truncation": "disabled",
+  "usage": {
+    "input_tokens": 119320,
+    "input_tokens_details": {
+      "cached_tokens": 0
+    },
+    "output_tokens": 241,
+    "output_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "total_tokens": 119561
+  },
+  "user": null,
+  "metadata": {}
+}
+[11:26:16]   Parsed 5 result(s).
+[11:26:16]   Calling AI for batch 39 with 5 report(s)…
+[11:26:30]   Raw AI response: {
+  "id": "resp_68d267b9b6748195859cc208860eab5b0a11945849d384cd",
+  "object": "response",
+  "created_at": 1758619577,
+  "status": "completed",
+  "background": false,
+  "billing": {
+    "payer": "developer"
+  },
+  "error": null,
+  "incomplete_details": null,
+  "instructions": null,
+  "max_output_tokens": null,
+  "max_tool_calls": null,
+  "model": "gpt-5-mini-2025-08-07",
+  "output": [
+    {
+      "id": "rs_68d267c1b7ec8195b0f36e0e61b4a0ef0a11945849d384cd",
+      "type": "reasoning",
+      "summary": []
+    },
+    {
+      "id": "msg_68d267c27b9c81958acb14b3586297370a11945849d384cd",
+      "type": "message",
+      "status": "completed",
+      "content": [
+        {
+          "type": "output_text",
+          "annotations": [],
+          "logprobs": [],
+          "text": "[\n  {\"score\": 5, \"explanation\": \"Large, diversified specialty construction firm with bonding capacity, growing revenues, strong backlog and access to credit; risks typical of construction but low near-term insolvency risk.\"},\n  {\"score\": 60, \"explanation\": \"Blank-check SPAC with no operating history, repeated deadline extensions, reliance on external financings and significant redemption/liquidity risk.\"},\n  {\"score\": 8, \"explanation\": \"Large regional bank (Fifth Third) with diversified loan portfolio, regulatory oversight and stable operations; banking risks exist but low near-term bankruptcy probability.\"},\n  {\"score\": 4, \"explanation\": \"Large, government\u2011backed defense prime with very large backlog, stable cash flows and strong market position; bankruptcy unlikely in next year.\"},\n  {\"score\": 6, \"explanation\": \"Large diversified insurer (MetLife) with global operations, strong capital markets access and regulatory oversight; insurance risks present but low short-term bankruptcy risk.\"}\n]"
+        }
+      ],
+      "role": "assistant"
+    }
+  ],
+  "parallel_tool_calls": true,
+  "previous_response_id": null,
+  "prompt_cache_key": null,
+  "reasoning": {
+    "effort": "minimal",
+    "summary": null
+  },
+  "safety_identifier": null,
+  "service_tier": "default",
+  "store": true,
+  "temperature": 1.0,
+  "text": {
+    "format": {
+      "type": "text"
+    },
+    "verbosity": "low"
+  },
+  "tool_choice": "auto",
+  "tools": [],
+  "top_logprobs": 0,
+  "top_p": 1.0,
+  "truncation": "disabled",
+  "usage": {
+    "input_tokens": 122144,
+    "input_tokens_details": {
+      "cached_tokens": 0
+    },
+    "output_tokens": 216,
+    "output_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "total_tokens": 122360
+  },
+  "user": null,
+  "metadata": {}
+}
+[11:26:30]   Parsed 5 result(s).
+[11:26:30]   Calling AI for batch 40 with 5 report(s)…
+[11:26:45]   Raw AI response: {
+  "id": "resp_68d267c822a88196a4e107012dfd262901b9536096a8d9a9",
+  "object": "response",
+  "created_at": 1758619592,
+  "status": "completed",
+  "background": false,
+  "billing": {
+    "payer": "developer"
+  },
+  "error": null,
+  "incomplete_details": null,
+  "instructions": null,
+  "max_output_tokens": null,
+  "max_tool_calls": null,
+  "model": "gpt-5-mini-2025-08-07",
+  "output": [
+    {
+      "id": "rs_68d267cfbccc8196913bbaa2106f50e201b9536096a8d9a9",
+      "type": "reasoning",
+      "summary": []
+    },
+    {
+      "id": "msg_68d267d0859481968854ed3b509abbdd01b9536096a8d9a9",
+      "type": "message",
+      "status": "completed",
+      "content": [
+        {
+          "type": "output_text",
+          "annotations": [],
+          "logprobs": [],
+          "text": "[\n  {\n    \"score\": 5,\n    \"explanation\": \"Stable large-cap consumer products company with diversified brands, positive market cap, completed strategic initiatives and liquidity access; risks are operational/supply-chain but low near-term insolvency risk.\"\n  },\n  {\n    \"score\": 8,\n    \"explanation\": \"Well\u2011established industrial/wood-products company with sizable revenue, integrated model and investment-grade customers but cyclical commodity exposure and leverage raise modest near\u2011term bankruptcy risk.\"\n  },\n  {\n    \"score\": 12,\n    \"explanation\": \"Small independent music company with growth via acquisitions, material debt and reported internal control weaknesses; industry volatility and leverage increase near\u2011term risk though not imminent.\"\n  },\n  {\n    \"score\": 3,\n    \"explanation\": \"Large, diversified fintech (FIS) with strong scale, investment-grade market value, recurring revenue and robust regulatory oversight; bankruptcy within a year unlikely absent extreme shock.\"\n  },\n  {\n    \"score\": 35,\n    \"explanation\": \"Early\u2011stage NewSpace EO company with innovative tech but limited revenues, concentrated customers, recent workforce cuts, convertible notes and high cash burn\u2014material short\u2011term financing/default risk.\"\n  }\n]"
+        }
+      ],
+      "role": "assistant"
+    }
+  ],
+  "parallel_tool_calls": true,
+  "previous_response_id": null,
+  "prompt_cache_key": null,
+  "reasoning": {
+    "effort": "minimal",
+    "summary": null
+  },
+  "safety_identifier": null,
+  "service_tier": "default",
+  "store": true,
+  "temperature": 1.0,
+  "text": {
+    "format": {
+      "type": "text"
+    },
+    "verbosity": "low"
+  },
+  "tool_choice": "auto",
+  "tools": [],
+  "top_logprobs": 0,
+  "top_p": 1.0,
+  "truncation": "disabled",
+  "usage": {
+    "input_tokens": 113904,
+    "input_tokens_details": {
+      "cached_tokens": 0
+    },
+    "output_tokens": 261,
+    "output_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "total_tokens": 114165
+  },
+  "user": null,
+  "metadata": {}
+}
+[11:26:45]   Parsed 5 result(s).
+[11:26:45] Received scores for 195 report(s).
+[11:26:45] Reading financial subset CSV files …
+[11:26:45] Writing updated financial subset CSV files …
+[11:26:45] Updated 98 bankrupt subset row(s) and 97 solvent subset row(s).
+[11:26:45] Done.
