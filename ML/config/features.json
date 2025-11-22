@@ -1,0 +1,123 @@
+{
+  "ratios": [
+    "current_ratio",
+    "quick_ratio",
+    "debt_to_assets",
+    "roa",
+    "net_margin",
+    "asset_turnover",
+    "inventory_turnover",
+    "cash_ratio",
+    "operating_margin",
+    "debt_to_equity"
+  ],
+  "levels": [],
+  "trends": [
+    "current_ratio_tren",
+    "quick_ratio_tren",
+    "debt_to_assets_tren",
+    "roa_tren",
+    "net_margin_tren",
+    "asset_turnover_tren",
+    "inventory_turnover_tren",
+    "cash_ratio_tren",
+    "operating_margin_tren",
+    "debt_to_equity_tren",
+    "EBIT_InterestExpense_tren",
+    "CFO_Liabilities_tren",
+    "TL_TA_tren",
+    "Debt_Assets_tren",
+    "WC_TA_tren",
+    "EBITDA_InterestExpense_tren",
+    "CFO_DebtService_tren",
+    "ROA_tren",
+    "OperatingMargin_tren",
+    "DaysAR_tren",
+    "DaysINV_tren",
+    "DaysAP_tren",
+    "CashConversionCycle_tren",
+    "DividendOmission_tren",
+    "DebtIssuanceSpike_tren",
+    "DebtRepaymentSpike_tren",
+    "Accruals_tren"
+  ],
+  "volatility": [
+    "current_ratio_vola",
+    "quick_ratio_vola",
+    "debt_to_assets_vola",
+    "roa_vola",
+    "net_margin_vola",
+    "asset_turnover_vola",
+    "inventory_turnover_vola",
+    "cash_ratio_vola",
+    "operating_margin_vola",
+    "debt_to_equity_vola",
+    "EBIT_InterestExpense_vola",
+    "CFO_Liabilities_vola",
+    "TL_TA_vola",
+    "Debt_Assets_vola",
+    "WC_TA_vola",
+    "EBITDA_InterestExpense_vola",
+    "CFO_DebtService_vola",
+    "ROA_vola",
+    "OperatingMargin_vola",
+    "DaysAR_vola",
+    "DaysINV_vola",
+    "DaysAP_vola",
+    "CashConversionCycle_vola",
+    "DividendOmission_vola",
+    "DebtIssuanceSpike_vola",
+    "DebtRepaymentSpike_vola",
+    "Accruals_vola"
+  ],
+  "log_features": [
+    "assets"
+  ],
+  "categorical": [
+    "EntityFilerCategory"
+  ],
+  "raw_columns": [
+    "AltmanZPrime"
+  ],
+  "extra_features": [
+    "EBIT_InterestExpense",
+    "CFO_Liabilities",
+    "TL_TA",
+    "Debt_Assets",
+    "WC_TA",
+    "EBITDA_InterestExpense",
+    "CFO_DebtService",
+    "ROA",
+    "OperatingMargin",
+    "DaysAR",
+    "DaysINV",
+    "DaysAP",
+    "CashConversionCycle",
+    "DividendOmission",
+    "DebtIssuanceSpike",
+    "DebtRepaymentSpike",
+    "Accruals"
+  ],
+  "interactions": {
+    "leverage_profitability": [
+      "debt_to_assets",
+      "roa"
+    ],
+    "liquidity_cashflow": [
+      "current_ratio",
+      "CFO_Liabilities"
+    ],
+    "size_profitability": [
+      "ln_assets",
+      "net_margin"
+    ],
+    "leverage_margin": [
+      "debt_to_equity",
+      "net_margin"
+    ],
+    "liquidity_accruals": [
+      "current_ratio",
+      "Accruals"
+    ]
+  }
+}
