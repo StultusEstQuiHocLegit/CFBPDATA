@@ -1,0 +1,23 @@
+{
+  "ratios": [
+    "current_ratio",
+    "debt_to_assets",
+    "roa"
+  ],
+  "levels": [],
+  "trends": [],
+  "volatility": [],
+  "log_features": [
+    "assets"
+  ],
+  "categorical": [
+    "EntityFilerCategory"
+  ],
+  "raw_columns": [
+    "AltmanZPrime"
+  ],
+  "extra_features": [
+    "EBIT_InterestExpense",
+    "CFO_Liabilities"
+  ]
+}

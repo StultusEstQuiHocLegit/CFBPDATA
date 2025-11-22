@@ -1,0 +1,3 @@
+company_id,fiscal_year,current_assets,current_liabilities,inventory,cash,assets_total,liabilities_total,revenue,cogs,ebit,net_income,sector,country
+COMP001,2024,100000,50000,20000,15000,200000,80000,150000,90000,30000,20000,Manufacturing,US
+COMP002,2024,50000,30000,10000,5000,100000,60000,80000,50000,10000,7000,Services,US
