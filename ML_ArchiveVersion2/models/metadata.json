@@ -1,0 +1,101 @@
+{
+    "timestamp": "2025-10-29T14:00:17+01:00",
+    "config": {
+        "paths": {
+            "bankrupt_csv": "data\/raw\/financials.csv",
+            "solvent_csv": "data\/raw\/financials_solvent.csv"
+        },
+        "schema": {
+            "id": "idpk",
+            "time": "year"
+        },
+        "split": {
+            "test_year": 2024,
+            "valid_year": 2023,
+            "group_by_company": true
+        },
+        "preprocess": {
+            "winsorize": {
+                "lower": 0.02,
+                "upper": 0.98
+            },
+            "impute_strategy": "median",
+            "scale": "robust"
+        },
+        "class_weighting": "inverse_frequency",
+        "model": {
+            "type": "logistic_regression",
+            "l2": 0.1,
+            "l2_grid": [
+                0.01,
+                0.05,
+                0.1,
+                0.5,
+                1
+            ],
+            "iterations": 400,
+            "learning_rate": 0.05,
+            "max_grad_norm": 5,
+            "min_probability_bins": 8,
+            "l2_bin_retry_factor": 5,
+            "max_bin_retries": 5,
+            "seed": 42,
+            "gradient_boosting": {
+                "num_trees": 50,
+                "learning_rate": 0.1,
+                "max_depth": 1
+            }
+        },
+        "calibration": "isotonic",
+        "thresholds": {
+            "optimize_for": "pr_auc",
+            "strict_recall_at": 0.8
+        }
+    },
+    "feature_names": [
+        "current_ratio",
+        "debt_to_assets",
+        "roa",
+        "current_ratio_tren",
+        "debt_to_assets_tren",
+        "roa_tren",
+        "current_ratio_vola",
+        "debt_to_assets_vola",
+        "roa_vola",
+        "ln_assets",
+        "EBIT_InterestExpense",
+        "CFO_Liabilities",
+        "leverage_profitability",
+        "liquidity_cashflow",
+        "size_profitability",
+        "AltmanZPrime",
+        "company_id_missing",
+        "fiscal_year_missing",
+        "label_missing",
+        "current_ratio_missing",
+        "debt_to_assets_missing",
+        "roa_missing",
+        "current_ratio_tren_missing",
+        "debt_to_assets_tren_missing",
+        "roa_tren_missing",
+        "current_ratio_vola_missing",
+        "debt_to_assets_vola_missing",
+        "roa_vola_missing",
+        "ln_assets_missing",
+        "EBIT_InterestExpense_missing",
+        "CFO_Liabilities_missing",
+        "leverage_profitability_missing",
+        "liquidity_cashflow_missing",
+        "size_profitability_missing",
+        "AltmanZPrime_missing"
+    ],
+    "hyperparameters": {
+        "model_type": "logistic_regression",
+        "selected_l2": 0.01
+    },
+    "calibration": {
+        "class": "App\\ML\\Calibrator\\Isotonic",
+        "type": "isotonic"
+    },
+    "selected_l2": 0.01
+}

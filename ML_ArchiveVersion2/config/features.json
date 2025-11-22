@@ -1,0 +1,45 @@
+{
+  "ratios": [
+    "current_ratio",
+    "debt_to_assets",
+    "roa"
+  ],
+  "levels": [],
+  "trends": [
+    "current_ratio",
+    "debt_to_assets",
+    "roa"
+  ],
+  "volatility": [
+    "current_ratio",
+    "debt_to_assets",
+    "roa"
+  ],
+  "log_features": [
+    "assets"
+  ],
+  "categorical": [
+    "EntityFilerCategory"
+  ],
+  "raw_columns": [
+    "AltmanZPrime"
+  ],
+  "extra_features": [
+    "EBIT_InterestExpense",
+    "CFO_Liabilities"
+  ],
+  "interactions": {
+    "leverage_profitability": [
+      "debt_to_assets",
+      "roa"
+    ],
+    "liquidity_cashflow": [
+      "current_ratio",
+      "CFO_Liabilities"
+    ],
+    "size_profitability": [
+      "ln_assets",
+      "roa"
+    ]
+  }
+}

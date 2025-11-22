@@ -1,0 +1,52 @@
+{
+  "paths": {
+    "bankrupt_csv": "data/raw/financials.csv",
+    "solvent_csv": "data/raw/financials_solvent.csv"
+  },
+  "schema": {
+    "id": "idpk",
+    "time": "year"
+  },
+  "split": {
+    "test_year": 2024,
+    "valid_year": 2023,
+    "group_by_company": true
+  },
+  "preprocess": {
+    "winsorize": {
+      "lower": 0.02,
+      "upper": 0.98
+    },
+    "impute_strategy": "median",
+    "scale": "robust"
+  },
+  "class_weighting": "inverse_frequency",
+  "model": {
+    "type": "logistic_regression",
+    "l2": 0.1,
+    "l2_grid": [
+      0.01,
+      0.05,
+      0.1,
+      0.5,
+      1.0
+    ],
+    "iterations": 400,
+    "learning_rate": 0.05,
+    "max_grad_norm": 5.0,
+    "min_probability_bins": 8,
+    "l2_bin_retry_factor": 5.0,
+    "max_bin_retries": 5,
+    "seed": 42,
+    "gradient_boosting": {
+      "num_trees": 50,
+      "learning_rate": 0.1,
+      "max_depth": 1
+    }
+  },
+  "calibration": "isotonic",
+  "thresholds": {
+    "optimize_for": "pr_auc",
+    "strict_recall_at": 0.8
+  }
+}
