@@ -1,0 +1,24 @@
+{
+    "name": "ml/bankruptcy-predictor",
+    "description": "PHP ML pipeline for corporate bankruptcy prediction",
+    "type": "project",
+    "require": {
+        "php": ">=8.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^9.6"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "App\\Tests\\": "tests/"
+        }
+    },
+    "scripts": {
+        "test": "phpunit --colors=always"
+    }
+}
