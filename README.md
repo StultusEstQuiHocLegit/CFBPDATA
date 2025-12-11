@@ -416,16 +416,6 @@ Loughran & McDonald documented that, in 10‑K filings between 1994 and 2008, th
 
 ### Evolution of tone relevance, 1994-2008 vs. 2024
 
-OLD, NEEDS TO BE REPLACED: * **Direction:** Unchanged, higher negative tone and lower positive tone continue to flag financial distress.
-OLD, NEEDS TO BE REPLACED: * **Strength:** Slightly stronger in 2024, helped by better lexical targeting and sharper language around liquidity and going‑concern risks after post‑crisis disclosure reforms.
-OLD, NEEDS TO BE REPLACED: * **Noise:** Lower from wordlist misclassification (thanks to Fin‑Neg/Fin‑Pos), though partially offset by expanded boilerplate risk language that adds generic negatives across the board.
-
-OLD, NEEDS TO BE REPLACED: Taken together, `DataProcessor7.php` supplies cleaner tone signals for downstream modeling by leveraging financial‑domain lexicons, quantifying how the negative and positive tone gaps have widened modestly since the 1994-2008 baseline and highlighting that textual indicators now carry a slightly greater share of the bankruptcy risk signal, even if they remain complementary to financial ratios.
-
-`DataProcessor7.php` mirrors those insights, but with a more nuanced pattern than a simple "more negative / less positive" story. In the 2024 sample, bankrupt firms use somewhat more Fin-Neg-style language than solvent peers (27 vs. 22 bankruptcy indicating words on average), while the solvency index is very similar across groups and even slightly higher for bankrupt firms (33 vs. 31 words). This aligns with Loughran & McDonald's evidence that negative tone carries most of the predictive content, whereas positive tone contributes only a weak, noisy signal. By building on their Fin-Neg/Fin-Pos lexicons rather than the generic Harvard negative list, the extensive misclassification they documented was also avoided and it was focussed on vocabulary that is genuinely indicative of financial distress. At the same time, distressed firms in the sample still produce substantially longer filings, about 17% more characters on average, consistent with the earlier link between verbosity and bad news, driven disclosure.
-
-### Evolution of tone relevance, 1994-2008 vs. 2024
-
 * **Direction:** Negative tone remains higher in the bankrupt cohort than in solvent peers, while positive tone shows little separation and is slightly more frequent in bankrupt filings. This is consistent with Loughran & McDonald's finding that negative financial words are the primary carriers of information, whereas positive words are comparatively weak signals of future performance.
 
 * **Strength:** In 2024, the separation in negative tone is economically present but modest, roughly a five-word difference on the advanced bankruptcy index, indicating that textual negativity continues to add incremental information to bankruptcy risk models without overwhelming traditional quantitative predictors.
